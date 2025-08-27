@@ -11,7 +11,11 @@ jobs:
       fail-fast: false
       matrix:
         url:
-        - https://srv709.mexa.sh:183/d/z5shfqkyxoy775ghy33a4ba5cuwqfowzyi3utaoffbdhe23h5hy4b3ii6eblkrbvy7viiuts/G-RJ01433459-v25.07.29.zip
+        - https://srv55.mexa.sh:183/d/efsdokt2xoy775ghkd3qqdchbtxjcllizghosrdpsqncch6luizheu3du2g3fixvvhxeuqba/G-RJ01277982-v24.12.04.part4.rar
+        - https://srv653.mexa.sh:183/d/d5sea22xxoy775ghid3amci7boforip4lc2p6fdezj6wikzsbzhwyddzz232c7e5pp2tnvw7/G-RJ01356701-v25.03.30.zip
+        - https://srv11.mexa.sh:183/d/lnsnekl2xoy775ghkd3rwfc5kenwzvsonl6mrz6pg45xdi2wx77dv4vauotkb23usmtaec3h/G-RJ01277982-v24.12.04.part1.rar
+        - https://srv928.mexa.sh:183/d/3zsnwkl2xoy775ghkd3ryskdkixr52bshozsmfoofqrd7sv2cowbgdfxq7avxn6i57s2pawq/G-RJ01277982-v24.12.04.part2.rar
+        - https://srv11.mexa.sh:183/d/lnsm6kl2xoy775ghkd3v2e25ddswqusvcmipdhop4yjmfranjcnknxgg7ewmdmtj7foeijes/G-RJ01277982-v24.12.04.part3.rar
     runs-on: ubuntu-latest
     steps:
     - uses: actions/cache@v4
