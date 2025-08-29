@@ -11,7 +11,7 @@
       "version": "7.5"
     },
     "ComfyUI": {
-      "version": "0.3.52"
+      "version": "0.3.54"
     },
     "Everything": {
       "version": "1.5.0.1396a"
@@ -54,7 +54,7 @@
       "url": "https://github.com/aria2/aria2/commit/d372b788ec2891164a93556c4a7dd4b0cf74c669"
     },
     "bdp": {
-      "version": "3.9.7"
+      "version": "3.9.8"
     },
     "brotli": {
       "version": "1.1.0"
