@@ -100,10 +100,10 @@ source = 'regex'
 url = 'https://nginx.org/en/download.html'
 regex = 'nginx-([\d\.]+)'
 
-[zlib]
+[zlib-ng]
 source = 'regex'
-url = 'https://github.com/madler/zlib/tags'
-regex = 'releases/tag/v([\d\.]+)"'
+url = 'https://github.com/zlib-ng/zlib-ng/tags'
+regex = 'releases/tag/([\d\.]+)"'
 
 [openssl]
 source = 'regex'
