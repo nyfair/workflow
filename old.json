@@ -146,14 +146,11 @@
     "vulkan": {
       "version": "1.4.309.0"
     },
-    "whisper": {
-      "version": "1.7.6"
-    },
     "xplorer²": {
       "version": "6.2.0.2"
     },
     "xtls": {
-      "version": "25.8.29"
+      "version": "25.8.31"
     },
     "yt-dlp": {
       "version": "2025.08.27"
