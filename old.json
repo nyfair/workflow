@@ -29,7 +29,7 @@
       "version": "1.11.5.20250706"
     },
     "Mingw-w64": {
-      "version": "20250820_15.2.1_x64-ucrt_8e8afc3c2d657340ace4dbacb9985bc5800cc4d8"
+      "version": "20250903_15.2.1_x64-ucrt_02efd3f206f4e488815f789e3963d38d2f2c2f0e"
     },
     "NeeView": {
       "version": "44.1"
@@ -147,7 +147,7 @@
       "version": "1.4.309.0"
     },
     "xplorer²": {
-      "version": "6.2.0.2"
+      "version": "6.2.0.3"
     },
     "xtls": {
       "version": "25.8.31"
