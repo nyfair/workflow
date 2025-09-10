@@ -89,9 +89,6 @@
     "libbluray": {
       "version": "1.4.0"
     },
-    "libdovi": {
-      "version": "3.3.2"
-    },
     "libdvdcss": {
       "version": "1.4.3"
     },
@@ -150,7 +147,7 @@
       "version": "6.2.0.3"
     },
     "xtls": {
-      "version": "25.9.5"
+      "version": "25.9.10"
     },
     "yt-dlp": {
       "version": "2025.09.05"
