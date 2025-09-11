@@ -11,19 +11,12 @@ jobs:
       fail-fast: false
       matrix:
         url:
-        - https://srv683.mexa.sh:183/d/zzsfz64fxoy775gh3lyvsskpdbcbypylddj34g5bvp2fatpfs7owetq645to2cjgvwelv4ts/A2406071.rar
-        - https://srv73.mexa.sh:183/d/hvsn25toxoy775ghzd3rctsgkpsatz6vtcuu4u4w5xvxxbt7atznelklcz6wnepf24hjxwzp/DMJ-aman_0757no-JP.part2.rar
-        - https://srv495.mexa.sh:183/d/vfsn45toxoy775ghzd3v2hkmboazlgv62tizqnuifpfhniu26juidv6zhvng7sri7i3dnb6c/DMJ-aman_0757no-JP.part1.rar
-        - https://srv825.mexa.sh:183/d/yvsl3tlixoy775ghc73b2fkdksu44qsifcqiydfjyxpuox5dcr24rtxagv5km4x46eyjcqyq/DMJ-aman_0636no-JP.part1.rar
-        - https://srv721.mexa.sh:183/d/zbskx7djxoy775ghdl3fsdy7aajqc7snajcgyykumbhx2cbaehuftg6sytmcqshlxbyavlyp/DMJ-aman_0584no-JP.part2.rar
-        - https://srv495.mexa.sh:183/d/vfskntlixoy775ghc73b6dcdaxzdd3cxpum6wieuy45wtsmmfs756frirv3snapsch2biue2/DMJ-aman_0636no-JP.part2.rar
-        - https://srv478.mexa.sh:183/d/zvskbtlixoy775ghc73bsbs4koirrcs7ksuu6743umlxhyr6ierizm5mnsiq44g4mc5yarve/DMJ-aman_0636no-JP.part3.rar
-        - https://srv241.mexa.sh:183/d/7jskftlixoy775ghc73agga2bnfom6mqnidr74wftbnodiamf4wzvzwnenmflqrzcojilb2f/DMJ-aman_0636no-JP.part4.rar
-        - https://srv107.mexa.sh:183/d/hjshs2c3xoy775ghep2rwr2db3cf3uj7ofvzuvfnsyonkhn3hfa5oyvlfpclaiqaw5j4mv5l/DMJ-aman_0687no-JP.part1.rar
-        - https://srv17.mexa.sh:183/d/vzsgg2c3xoy775ghep2qcscacj7rx22uajmuky5c6nr27uedycutfygilodsho2isfcla2bs/DMJ-aman_0687no-JP.part2.rar
-        - https://srv913.mexa.sh:183/d/3vsgc2c3xoy775ghep2qyea3cerkccy6hegacmzikysx7gzneahpejo3rlbfuebma6ig5crt/DMJ-aman_0687no-JP.part3.rar
-        - https://srv6.mexa.sh:183/d/6bsepqlkxoy775ghbx3bud23cn7ibefedvoeqmnpzxlekmia2tauxnj2g54pmf4mz5yhgfz4/DMJ-aman_0895no-JP.rar
-        - https://srv68.mexa.sh:183/d/7nsgixk5xoy775gh6t3fwfsydh5ctudbqqjf5uahpsorsxt73ygmoe5phqxqhzmbq5hepaqf/DMJ-aman_0913no-JP.rar
+        - https://srv36.mexa.sh:183/d/djsd5qsfxoy775ghat2qch2flb7kpdhocid6jddsa7l6dxrisboiiinqrfdr4p43jlq7n6xh/DLJ-01424333-CN.part2.rar
+        - https://srv520.mexa.sh:183/d/ajsdzqsfxoy775ghat2qycc7c3yktld7vzvlcya7knhhuzwn24d7mixsfjhdpmn7bkhrcpzy/DLJ-01430818-CN.rar
+        - https://srv6.mexa.sh:183/d/6bscjqsfxoy775ghat2v4sctdfjnqviafntaaadlicfyjma4j7vdaqe5qm46kdevvcpi3u6j/DLJ-01454736-CN.rar
+        - https://srv28.mexa.sh:183/d/ursddqsfxoy775ghat2qmf25btlwwgtuc5bsq4a5uvqyevio2yy72fwg74jhrfltsgs4gc2x/DLJ-01424333-CN.part1.rar
+        - https://srv36.mexa.sh:183/d/djshnm2txoy775ghqp3bgsclk6vpophxst6vjfa4xbz6etze3hlfbn4m4rsudh3lwtqxokj6/DLJ-01391105-CHT.rar
+        - https://srv7.mexa.sh:183/d/znsdhqsfxoy775ghat2q2dk5lgawymdxzw5agq6pdtyrsn6d3yws3a4a43eejlluh5mv2uzo/DLJ-01339344-CN.rar
     runs-on: ubuntu-latest
     steps:
     - uses: actions/cache@v4
