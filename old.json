@@ -25,6 +25,9 @@
     "Iceweasel": {
       "version": "143.0"
     },
+    "Megatools": {
+      "version": "1.11.5.20250706"
+    },
     "Mingw-w64": {
       "version": "20250903_15.2.1_x64-ucrt_02efd3f206f4e488815f789e3963d38d2f2c2f0e"
     },
