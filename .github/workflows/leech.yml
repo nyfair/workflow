@@ -11,7 +11,11 @@ jobs:
       fail-fast: false
       matrix:
         url:
-        - https://mega.nz/file/CEY2CTrD#I9hv4OQldI0hFWGFncpQvwG1iWfjx0zUPIJftdY00I8
+        - https://srv734.mexa.sh:183/d/zfsf6g2gxoy775ghbp2qofqqbhn5zfh2yfk3cg6knbluwzr6yyq5p2tuwos7j4t2k2g64ulx/G-RJ01460421.zip
+        - https://srv642.mexa.sh:183/d/dzsfkokgxoy775ghbh2qaeq7adld52bsqlexytlg7ivwiu6t4vmz7hl6qugbwyv3oqw74tbc/Game-RJ01458403.rar
+        - https://srv198.mexa.sh:183/d/vjsd3jsfxoy775ghad2qcgs6bvsm7znxwbo2iu5exysua5iktqyy7jxgr7ijjo64nvja6vlh/G-RJ01458968.zip
+        - https://srv213.mexa.sh:183/d/crsf4gkgxoy775ghbp2rsskfakiaqwfn55rkt2lbzl6wdhv6c7fr7ldiohlziaxxjagj7mhi/DLJ-01042589_v25.09.12-JP-CHS-EN.part1.rar
+        - https://srv653.mexa.sh:183/d/d5seegkgxoy775ghbp2rshk2audtxf3z7afjwotaytl3xn455k6oornxzd26hgtvzfoio4l6/DLJ-01042589_v25.09.12-JP-CHS-EN.part2.rar
     runs-on: ubuntu-latest
     steps:
     - uses: actions/cache@v4
