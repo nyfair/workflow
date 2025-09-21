@@ -11,16 +11,7 @@ jobs:
       fail-fast: false
       matrix:
         url:
-        - https://mega.nz/file/JmBw0DST#9iGGiQ8ynMTbtJt4s1rfh0fItSCA-t5-WKD4us_wNIk
-        - https://mega.nz/file/NiwhQJCT#GNqZH51C2oWFMFnEmILWfta-nLKS5vB0mbheN15JqEc
-        - https://mega.nz/file/FnR0xTaa#TwmRG9tCcywrRMOhF6tDyAM2ZltZCtleWHBpXzTYHbA
-        - https://mega.nz/file/EnJEmZZR#k2L0w2zzzbomsCD6JgpxhS5z7-yOORGvaQpyFhWNH_E
-        - https://mega.nz/file/FnhG3SSR#BykNDT8DHVUtVOwNVBSWXcVZ2uoRLFV9H7zvHbkipuQ
-        - https://mega.nz/file/1ix3yaRT#TrqXOWOK5lstlmOzFBoHLy03qEeeziydUnsJjiF9858
-        - https://mega.nz/file/IqRxWCRC#x0qXxQ2Whov0XLRUgK0NTrYI4P_rqOeKc6bPM9Pj3qM
-        - https://mega.nz/file/1y5U2agR#oVinUOcgxqObVp81Dy3bji-jX9DCLZtIqvM9_7jMmJ4
-        - https://mega.nz/file/RUlxnT4J#zdCfmUrYcjiqhNmgSUodC57JrdG3rWrQqNfEZEUTavs
-        - https://mega.nz/file/6ZEyQZpJ#lEPEQkVA3l1kr_Msi0QXjtP1krbhyKWFgXP_pNqqjuQ
+        - https://drive.google.com/file/d/1XZVfHYYkDs_9yFJkIB2FNBg1K9xPf7Nw/view?usp=sharing
     runs-on: ubuntu-latest
     steps:
     - uses: actions/cache@v4
