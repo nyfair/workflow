@@ -11,7 +11,13 @@ jobs:
       fail-fast: false
       matrix:
         url:
-        - https://srv976.mexa.sh:183/d/3nserrs2xoy775ghht2r2bq6bc2on3bkfcvcv5bnjlbzls3vqupmcvex73ionbwcta5wx5ca/Game-RJ01429140.rar
+        - https://srv68.mexa.sh:183/d/7nsosj2hxoy775ghpt2ruty5axyivp55mdwrucb6c4c2rwespzv42byw7us6bo6zgv2mx35m/A-RJ01408142.part7.rar
+        - https://srv29.mexa.sh:183/d/evspuj2hxoy775ghpt2qahk7legji37rkrxvtkmep76kru7pkxfzc5ogecbb5t4wahcmlfkp/A-RJ01408142.part3.rar
+        - https://srv445.mexa.sh:183/d/yjsoej2hxoy775ghpt2ryectkfgjuxdqqaz4hogorfzgpio65rx2wkd3xux4dh3jw3ewhcuy/A-RJ01408142.part5.rar
+        - https://srv19.mexa.sh:183/d/4fsouj2hxoy775ghpt2q6sa7a7qr3s5qxzmnqqhagswvzyty5jpkvtx2tpnz7oq3gpadozrg/A-RJ01408142.part6.rar
+        - https://srv28.mexa.sh:183/d/ursomj2hxoy775ghpt2q6hiyc72og6fuaxjo765mvur3eggoidhvjgchqtjkd4qtr3ub5l56/A-RJ01408142.part4.rar
+        - https://srv683.mexa.sh:183/d/zzspaj2hxoy775ghpt2ragc4k4dvaq433d6xiojp6rvmvvztn4pz6gnfyez4ll7bzeneon2x/A-RJ01408142.part2.rar
+        - https://srv213.mexa.sh:183/d/crspmj2hxoy775ghpt2q4tkhko2qvkparzkemajqchbtdbsqzc2fkry4gktkxwxmzcuxdoa5/A-RJ01408142.part1.rar
     runs-on: ubuntu-latest
     steps:
     - uses: actions/cache@v4
