@@ -11,21 +11,10 @@ jobs:
       fail-fast: false
       matrix:
         url:
-        - https://mega.nz/file/cN5HgLba#IyoPdKsCnzTQLNyroBPuCqHS4sVnHHzOzmXGYovQp8c
-        - https://mega.nz/file/ZJIRRaoL#Ig8onjjauu9yOkPzwr9Jq5hgs1dKqklGTfhUBokg30c
-        - https://mega.nz/file/dYAUgYqA#eNrp6ZwoLt1S7cc-RGLOZ4xskDq3hjlvCqI26Gxb9Ok
-        - https://mega.nz/file/hcRk0ADZ#ofJXlQ6YyLM-G-ajGb-uqUtHWLBcW9epIK5O1wCw5kQ
-        - https://mega.nz/file/ggQkESgL#yBa8-uZNZPoklv9Gh3EENXaGBNnqC04o1hqv6sd_gzg
-        - https://mega.nz/file/AwoWWCJR#JHbm42k_e7sBwEMndARVLWJboyv3_CeFwv0wqV1N_sQ
-        - https://mega.nz/file/0lYxgZBS#yEnKYWD56wHXG9Bv03x-tvlUKThDQfounb4ZsnmQkiM
-        - https://mega.nz/file/cwBXEaYI#ZPuqhNZ5hozSWE6-m1sa8m8kPOvXFAzD_LNg13ln8jI
-        - https://mega.nz/file/s44QmLRL#EMqh2VIqKuJGfwM5YdHC-X3kjzjBb4bzAW-7jxAFEB0
-        - https://mega.nz/file/VoBjQRjL#fL3Ql93s9k0TXtp278o2DL1l9yHBv1vacU_zpLIM8kM
-        - https://mega.nz/file/k5ZW3LCa#I5kMQMIlwBiVY4rzlHvT3rICY0rau5d2uFIEbwSdELY
-        - https://mega.nz/file/opwXjTwC#4N0b7V0yptGtN0kf3Ccp7kpABXf0DtEV6Jq-aao_XnI
-        - https://mega.nz/file/pxxFmIjZ#Yw0Akt6p6mYxfWmTfYukVPi0YRKMNrgY9NmcDSd731s
-        - https://mega.nz/file/NgZnwbhK#2r3hziLsO_km-CARwPU6pW3--bM_pptC6Af4VCWJQNQ
-        - https://mega.nz/file/FwxxRSRb#ZIlVUcTmbkSL--jWsS2bcMXuPfv_vA0hdjOOE7IOiJU
+        - https://srv3.mexa.sh:183/d/ijspm4s7xoy775gh5h3bqscyk4x5n4rj6v3mekcanutzxinwwmqpvwhxatkhewqmrhx3e75a/DLJ-01074279_v24.10.10-JP-CHT-EN.part2.rar
+        - https://srv859.mexa.sh:183/d/ybshzwdfxoy775ghxd3vshclkvmttkei5zxrckrb5sasvrdytzact5jc7tr3lfvgwixeqzjt/G-RJ01276936-v1.02.zip
+        - https://srv389.mexa.sh:183/d/7bspo4s7xoy775gh5h3bat2blccfomqvgg6rjycdd22mq6yby5hsbrrl4izub4gq56fmuna7/DLJ-01074279_v24.10.10-JP-CHT-EN.part1.rar
+        - https://srv103.mexa.sh:183/d/hfsgx6syxoy775ghyx3fwea5kmpjtahaqojib6pjg6g2swncle7wcnmgkeyhir2j63voffhh/DLJ-01236860_v25.03.19_DLC-JP.rar
     runs-on: ubuntu-latest
     steps:
     - uses: actions/cache@v4
