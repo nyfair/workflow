@@ -11,13 +11,21 @@ jobs:
       fail-fast: false
       matrix:
         url:
-        - https://srv68.mexa.sh:183/d/7nsosj2hxoy775ghpt2ruty5axyivp55mdwrucb6c4c2rwespzv42byw7us6bo6zgv2mx35m/A-RJ01408142.part7.rar
-        - https://srv29.mexa.sh:183/d/evspuj2hxoy775ghpt2qahk7legji37rkrxvtkmep76kru7pkxfzc5ogecbb5t4wahcmlfkp/A-RJ01408142.part3.rar
-        - https://srv445.mexa.sh:183/d/yjsoej2hxoy775ghpt2ryectkfgjuxdqqaz4hogorfzgpio65rx2wkd3xux4dh3jw3ewhcuy/A-RJ01408142.part5.rar
-        - https://srv19.mexa.sh:183/d/4fsouj2hxoy775ghpt2q6sa7a7qr3s5qxzmnqqhagswvzyty5jpkvtx2tpnz7oq3gpadozrg/A-RJ01408142.part6.rar
-        - https://srv28.mexa.sh:183/d/ursomj2hxoy775ghpt2q6hiyc72og6fuaxjo765mvur3eggoidhvjgchqtjkd4qtr3ub5l56/A-RJ01408142.part4.rar
-        - https://srv683.mexa.sh:183/d/zzspaj2hxoy775ghpt2ragc4k4dvaq433d6xiojp6rvmvvztn4pz6gnfyez4ll7bzeneon2x/A-RJ01408142.part2.rar
-        - https://srv213.mexa.sh:183/d/crspmj2hxoy775ghpt2q4tkhko2qvkparzkemajqchbtdbsqzc2fkry4gktkxwxmzcuxdoa5/A-RJ01408142.part1.rar
+        - https://mega.nz/file/cN5HgLba#IyoPdKsCnzTQLNyroBPuCqHS4sVnHHzOzmXGYovQp8c
+        - https://mega.nz/file/ZJIRRaoL#Ig8onjjauu9yOkPzwr9Jq5hgs1dKqklGTfhUBokg30c
+        - https://mega.nz/file/dYAUgYqA#eNrp6ZwoLt1S7cc-RGLOZ4xskDq3hjlvCqI26Gxb9Ok
+        - https://mega.nz/file/hcRk0ADZ#ofJXlQ6YyLM-G-ajGb-uqUtHWLBcW9epIK5O1wCw5kQ
+        - https://mega.nz/file/ggQkESgL#yBa8-uZNZPoklv9Gh3EENXaGBNnqC04o1hqv6sd_gzg
+        - https://mega.nz/file/AwoWWCJR#JHbm42k_e7sBwEMndARVLWJboyv3_CeFwv0wqV1N_sQ
+        - https://mega.nz/file/0lYxgZBS#yEnKYWD56wHXG9Bv03x-tvlUKThDQfounb4ZsnmQkiM
+        - https://mega.nz/file/cwBXEaYI#ZPuqhNZ5hozSWE6-m1sa8m8kPOvXFAzD_LNg13ln8jI
+        - https://mega.nz/file/s44QmLRL#EMqh2VIqKuJGfwM5YdHC-X3kjzjBb4bzAW-7jxAFEB0
+        - https://mega.nz/file/VoBjQRjL#fL3Ql93s9k0TXtp278o2DL1l9yHBv1vacU_zpLIM8kM
+        - https://mega.nz/file/k5ZW3LCa#I5kMQMIlwBiVY4rzlHvT3rICY0rau5d2uFIEbwSdELY
+        - https://mega.nz/file/opwXjTwC#4N0b7V0yptGtN0kf3Ccp7kpABXf0DtEV6Jq-aao_XnI
+        - https://mega.nz/file/pxxFmIjZ#Yw0Akt6p6mYxfWmTfYukVPi0YRKMNrgY9NmcDSd731s
+        - https://mega.nz/file/NgZnwbhK#2r3hziLsO_km-CARwPU6pW3--bM_pptC6Af4VCWJQNQ
+        - https://mega.nz/file/FwxxRSRb#ZIlVUcTmbkSL--jWsS2bcMXuPfv_vA0hdjOOE7IOiJU
     runs-on: ubuntu-latest
     steps:
     - uses: actions/cache@v4
@@ -38,6 +46,7 @@ jobs:
           ../megatools*/megatools dl --path ./ ${{ matrix.url }}
         elif [[ ${{ matrix.url }} == *"drive.google"* ]]
         then
+          # gdown https://drive.google.com/uc?id=
           pip install gdown && gdown ${{ matrix.url }}
         else
           curl -OL --insecure ${{ matrix.url }}
