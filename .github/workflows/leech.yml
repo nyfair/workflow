@@ -11,10 +11,8 @@ jobs:
       fail-fast: false
       matrix:
         url:
-        - https://srv3.mexa.sh:183/d/ijspm4s7xoy775gh5h3bqscyk4x5n4rj6v3mekcanutzxinwwmqpvwhxatkhewqmrhx3e75a/DLJ-01074279_v24.10.10-JP-CHT-EN.part2.rar
-        - https://srv859.mexa.sh:183/d/ybshzwdfxoy775ghxd3vshclkvmttkei5zxrckrb5sasvrdytzact5jc7tr3lfvgwixeqzjt/G-RJ01276936-v1.02.zip
-        - https://srv389.mexa.sh:183/d/7bspo4s7xoy775gh5h3bat2blccfomqvgg6rjycdd22mq6yby5hsbrrl4izub4gq56fmuna7/DLJ-01074279_v24.10.10-JP-CHT-EN.part1.rar
-        - https://srv103.mexa.sh:183/d/hfsgx6syxoy775ghyx3fwea5kmpjtahaqojib6pjg6g2swncle7wcnmgkeyhir2j63voffhh/DLJ-01236860_v25.03.19_DLC-JP.rar
+        - https://pixeldrain.com/api/file/EHXWeXBY?download
+        - https://pixeldrain.com/api/file/pFztdi1U?download
     runs-on: ubuntu-latest
     steps:
     - uses: actions/cache@v4
