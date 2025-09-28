@@ -11,10 +11,8 @@ jobs:
       fail-fast: false
       matrix:
         url:
-        - https://srv19.mexa.sh:183/d/4fsejzs7xoy775gh2l3bcfkoldunc4ye2bbzw7li5zuyrfta5pdf7htupuijdjsiihiksrri/DMJ-aman_0741no-JP.part1.rar
-        - https://srv136.mexa.sh:183/d/gfsdiws4xoy775ghqh3aabqylbzj6aqyxe6nhx24letkhe6hrtypdovb7yedxi3ypzpnazaz/DMJ-aman_0720no-JP.rar
-        - https://srv25.mexa.sh:183/d/2zsefzs7xoy775gh2l3aqecibja7rj2eujnegdanxrtwe5fncadcylbe42gs4yiqgu3xr6qo/DMJ-aman_0741no-JP.part2.rar
-        - https://srv445.mexa.sh:183/d/yjsbmtcwxoy775ghl73awga5bookwh2bq6blllogr36r3dyhy5qijbytjvix2czzx74tjevz/DMJ-aman_0647no-JP.rar
+        - https://srv981.mexa.sh:183/d/2rscacvmxoy775ghs3zf4ckfclm6jjxpqdf74mpbglrarxftk5pgv2c5yq3kh3hys4w3uaxi/A12056.part2.rar
+        - https://srv36.mexa.sh:183/d/djsbocvmxoy775ghs3zf4gyzbk7h72llb56bn26xkzvuxvvp5ktsbcn6ztjeky6jqgzfel2c/A12056.part1.rar
     runs-on: ubuntu-latest
     steps:
     - uses: actions/cache@v4
