@@ -11,8 +11,10 @@ jobs:
       fail-fast: false
       matrix:
         url:
-        - https://pixeldrain.com/api/file/EHXWeXBY?download
-        - https://pixeldrain.com/api/file/pFztdi1U?download
+        - https://srv19.mexa.sh:183/d/4fsejzs7xoy775gh2l3bcfkoldunc4ye2bbzw7li5zuyrfta5pdf7htupuijdjsiihiksrri/DMJ-aman_0741no-JP.part1.rar
+        - https://srv136.mexa.sh:183/d/gfsdiws4xoy775ghqh3aabqylbzj6aqyxe6nhx24letkhe6hrtypdovb7yedxi3ypzpnazaz/DMJ-aman_0720no-JP.rar
+        - https://srv25.mexa.sh:183/d/2zsefzs7xoy775gh2l3aqecibja7rj2eujnegdanxrtwe5fncadcylbe42gs4yiqgu3xr6qo/DMJ-aman_0741no-JP.part2.rar
+        - https://srv445.mexa.sh:183/d/yjsbmtcwxoy775ghl73awga5bookwh2bq6blllogr36r3dyhy5qijbytjvix2czzx74tjevz/DMJ-aman_0647no-JP.rar
     runs-on: ubuntu-latest
     steps:
     - uses: actions/cache@v4
