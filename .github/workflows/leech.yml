@@ -11,8 +11,12 @@ jobs:
       fail-fast: false
       matrix:
         url:
-        - https://srv981.mexa.sh:183/d/2rscacvmxoy775ghs3zf4ckfclm6jjxpqdf74mpbglrarxftk5pgv2c5yq3kh3hys4w3uaxi/A12056.part2.rar
-        - https://srv36.mexa.sh:183/d/djsbocvmxoy775ghs3zf4gyzbk7h72llb56bn26xkzvuxvvp5ktsbcn6ztjeky6jqgzfel2c/A12056.part1.rar
+        - https://srv85.mexa.sh:183/d/hbsc6nk4xoy775ghrx3a4dk6k4vxaoogdnx7v7dosqfcpd33e6o3we6kqoitcd7slbr3d35x/G-RJ01280194.zip
+        - https://srv15.mexa.sh:183/d/cjshqa3rxoy775gh3dyauecnaxxo5pq4tbljcn3hcucdgtdz3b5dzh32sqhdzobtt3nnrru3/G-RJ01248810.zip
+        - https://srv73.mexa.sh:183/d/hvsh455cxoy775ghwpzbudkkcdmjpyw6nrde23sbobaeuyul3m4glcjxcuzonyshl3ytkhhd/Game-RJ01085538-v1.02.rar
+        - https://srv116.mexa.sh:183/d/grse44mkxoy775ghu7yfwba2kgddwc6i4sdloc34p6imb4p25la6v5ejwzopm66s5i26ylao/ANIDOU3901.part1.rar
+        - https://srv9.mexa.sh:183/d/2bse24mkxoy775ghu7yfcfcqc7vu6ehtg3yxq2ggfa5wfrju2sfqo4xtg46vnpfejaupdut4/ANIDOU3901.part2.rar
+        - https://srv964.mexa.sh:183/d/3jsec4mkxoy775ghu7ybcdq5kxwwvqji724fhd6x4y2vdamvio3oieqlgmbeh3jxxp3zh7v6/ANIDOU3901.part3.rar
     runs-on: ubuntu-latest
     steps:
     - uses: actions/cache@v4
