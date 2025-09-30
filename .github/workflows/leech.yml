@@ -12,7 +12,9 @@ jobs:
       matrix:
         url:
         - https://mega.nz/file/QJ4HxCIZ#7NSNFhYvcQhUV7vFVs7CXfPYuLZF6zMmMIawg3gQUOY
-        - 
+        - https://mega.nz/file/iNlSkCKQ#hH29NhvdFHZrkHxn5btqI1Ur1s5iMj2R7Xdnhg6jlmQ
+        - https://mega.nz/file/fR8mwAKK#KVLXy082g2KdiX1ukYoL3CaBwqIbx-Uyp470pdA3cDo
+        - https://mega.nz/file/DAlQATpT#3UgeLzQ8HewbmX7cf-UWVDqthp-WntKNYoDiTqwLen0
     runs-on: ubuntu-latest
     steps:
     - uses: actions/cache@v4
