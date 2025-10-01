@@ -11,7 +11,7 @@
       "version": "7.5"
     },
     "ComfyUI": {
-      "version": "0.3.60"
+      "version": "0.3.62"
     },
     "Everything": {
       "version": "1.5.0.1399a"
@@ -23,7 +23,7 @@
       "version": "2.36.0"
     },
     "Iceweasel": {
-      "version": "143.0.1"
+      "version": "143.0.3"
     },
     "Megatools": {
       "version": "1.11.5.20250706"
@@ -132,7 +132,7 @@
       "version": "1.29.1"
     },
     "openssl": {
-      "version": "3.5.3"
+      "version": "3.5.4"
     },
     "opus": {
       "version": "1.5.2"
