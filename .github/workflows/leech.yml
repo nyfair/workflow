@@ -11,8 +11,8 @@ jobs:
       fail-fast: false
       matrix:
         url:
-        - https://pixeldrain.com/api/file/erEa7PVA?download
-        - https://rr.vikingfile.com/download/dwexZyeliw/Conquest_of_Elysium_5.7z
+        - https://srv68.mexa.sh:183/d/7nseqo3mxoy775gh333vycckapsqonmepzk4eycrwwnc6faebj7hspi6b6ul6eakracuakxa/G-RJ01357271.part2.rar
+        - https://srv29.mexa.sh:183/d/evseio3mxoy775gh333rwsy6kjtpuetca2qegh2yoap22zvwb2ttnismtotmvwpw3lohtw3l/G-RJ01357271.part1.rar
     runs-on: ubuntu-latest
     steps:
     - uses: actions/cache@v4
