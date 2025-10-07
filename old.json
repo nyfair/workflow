@@ -11,7 +11,7 @@
       "version": "7.5"
     },
     "ComfyUI": {
-      "version": "0.3.62"
+      "version": "0.3.63"
     },
     "Everything": {
       "version": "1.5.0.1399a"
@@ -141,7 +141,7 @@
       "version": "2025.4"
     },
     "spirv-cross": {
-      "version": "1.4.321.0"
+      "version": "1.4.328.0"
     },
     "vulkan": {
       "version": "1.4.309.0"
