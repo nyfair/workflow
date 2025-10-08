@@ -11,15 +11,15 @@ jobs:
       fail-fast: false
       matrix:
         url:
-        - https://srv68.mexa.sh:183/d/7nskxxkbxoy775ghkh2qwb2hkucphuv7rdxihfatlsf5vfisuttleolyovsohl7qrmtbutx7/Game-RJ01214867_v1.313.part1.rar
-        - https://srv683.mexa.sh:183/d/zzsjhxkbxoy775ghkh2qefkdcg6lqfn2c3k6aw5or6hm32rewb62nzl7ddlldszumjs64rsc/Game-RJ01214867_v1.313.part2.rar
-        - https://srv6.mexa.sh:183/d/6bskzxkbxoy775ghkh2quea5bzofwcy3hyzgqhvlc6rsra643krf5bhbxsog6p56oalefshc/Game-RJ01214867_v1.313.part3.rar
-        - https://srv131.mexa.sh:183/d/5vsc7mczxoy775ghgx2qeccfawokizfvo4muqobn5waivankay26zbqnrxcoflxnxus4bzf3/G-RJ01166703-v25.08.02.part1.rar
-        - https://srv495.mexa.sh:183/d/vfsc5mczxoy775ghgx2vwdc5kdpmvzrg5sbtu3wa7twwikxx3ijxzfn3dfo3gbtpuacv4oq3/G-RJ01166703-v25.08.02.part2.rar
-        - https://srv825.mexa.sh:183/d/yvsczmczxoy775ghgx2r4sc2aswkj7njkusosn7vkdptek4htivujsvrwdzfli2t5vswvpef/G-RJ01166703-v25.08.02.part3.rar
-        - https://srv495.mexa.sh:183/d/vfscrmczxoy775ghgx2vcgsnb335w5o3bqktuxylwm2adhlfqjdg5jgdhwbnoy3q3knf5vmd/G-RJ01166703-v25.08.02.part4.rar
-        - https://srv55.mexa.sh:183/d/efsb7mczxoy775ghgx2qcck4a3s5qklk5ephswmaa2jg3sz2zm4hiachlffrjnxephopd7sm/G-RJ01166703-v25.08.02.part5.rar
-        - https://srv29.mexa.sh:183/d/evsb3mczxoy775ghgx2vseq5at6vfm25sgtzaovqdbnfeiw3ejevh5rl73ialxpalocp7rb5/G-RJ01166703-v25.08.02.part6.rar
+        - https://srv13.mexa.sh:183/d/kvsajekbxoy775ghl32qqskdbpl6zlzy4356kfjh46s4efnmsf73wrltw5q2pfjueheuikym/G-RJ01219535-v2.05.part1.rar
+        - https://srv111.mexa.sh:183/d/vbsavekbxoy775ghl32qydk7bo7lvfm6qcvtevcmrqpurmeetqpi4aaa7gn5evisxpqn6jto/G-RJ01219535-v2.05.part2.rar
+        - https://srv976.mexa.sh:183/d/3nshdekbxoy775ghl32raei7bbvvgnfb6fvrgpd6jxnqn6dznvwchu7ybtzqvjpixjbj6pml/G-RJ01219535-v2.05.part3.rar
+        - https://srv16.mexa.sh:183/d/6jshxekbxoy775ghl32qefs5lglxvovrgu6o24q3e7luaiutiksu6qdgy62sg4spr2h6ybcl/G-RJ01219535-v2.05.part4.rar
+        - https://srv13.mexa.sh:183/d/kvsgjekbxoy775ghl32q4fknamvbtkwyx5hlw6oup5fg3k6fzlgyi4pdevezyukjgrtsewcc/G-RJ01219535-v2.05.part5.rar
+        - https://srv43.mexa.sh:183/d/v5sltrs2xoy775ghht2qocc2a3o6vd3eq44pxgwt3752t3ijdvdcsbqrkjriw64ewh7tx4em/Game-RJ01384149-v1.0.4.part1.rar
+        - https://srv2.mexa.sh:183/d/2jskprs2xoy775ghht2v4bczbjq7aii3x73zvqy2oxvew4bifsnm2n2ingfx4zc6igzz3vcb/Game-RJ01384149-v1.0.4.part2.rar
+        - https://srv55.mexa.sh:183/d/efslrrs2xoy775ghht2qihk6ca6vhbe5wmzab462izlhpj4cd2i6b3sn75szlj6xkjlxcg3u/Game-RJ01384149-v1.0.4.part3.rar
+        - https://srv520.mexa.sh:183/d/ajsljrs2xoy775ghht2rqck5bnecwdtt5kapdzyhhfuho2lnmfg4bnvjrhoezw4nac7hyjql/Game-RJ01384149-v1.0.4.part4.rar
     runs-on: ubuntu-latest
     steps:
     - uses: actions/cache@v4
