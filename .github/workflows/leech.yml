@@ -11,8 +11,17 @@ jobs:
       fail-fast: false
       matrix:
         url:
-        - https://srv68.mexa.sh:183/d/7nseqo3mxoy775gh333vycckapsqonmepzk4eycrwwnc6faebj7hspi6b6ul6eakracuakxa/G-RJ01357271.part2.rar
-        - https://srv29.mexa.sh:183/d/evseio3mxoy775gh333rwsy6kjtpuetca2qegh2yoap22zvwb2ttnismtotmvwpw3lohtw3l/G-RJ01357271.part1.rar
+        - https://srv389.mexa.sh:183/d/7bsl6h32xoy775ghkp3r2rqycr3pfc6drgvwnwt2a2jpwjhmxmutr6246g6rkhbl5wxtdop7/G-RJ01314012.zip
+        - https://srv25.mexa.sh:183/d/2zsis3syxoy775gh3p3b2rsfbmmf26g77ndtdxj3dbjb5awmibj4b2mzo3vqvizzy6bcgm6b/Game-RJ404094-Ver1.20.part1.rar
+        - https://srv68.mexa.sh:183/d/7nsiq3syxoy775gh3p3b6f2ydouffy5hy33ckoocgvx42qivrwvpqxwkrgzzh4xhm6euuaxm/Game-RJ404094-Ver1.20.part2.rar
+        - https://srv61.mexa.sh:183/d/vrsiu3syxoy775gh3p3bqds4chaqoiepqkpyf3bzrjg4xduyyhbwzzrsvnb4vo636xhltkmy/Game-RJ404094-Ver1.20.part3.rar
+        - https://srv30.mexa.sh:183/d/dfsoqxc7xoy775gh5l3aocslcv4nknnq7dhmxtsb32jwurcxgf7lbyal3ql2wzbfnpbvno5t/G-RJ01355396-v25.07.20.part1.rar
+        - https://srv520.mexa.sh:183/d/ajsnexc7xoy775gh5l3bufkkcqw76fg722vhqi4ka4no3sv7qgwxtzqvtrd3jxqqyi7d5cfk/G-RJ01355396-v25.07.20.part3.rar
+        - https://srv61.mexa.sh:183/d/vrsnmxc7xoy775gh5l3a4sa2bkly6uxxh375ly5v32fpaeh3jm6w7zdvagz2gkgdzhqyccj5/G-RJ01355396-v25.07.20.part2.rar
+        - https://srv913.mexa.sh:183/d/3vscvfcgxoy775ghox2q4tkiamfyd7lejurlzyd6etc6ijdhd4chjvehg5fpokwikyzkqcew/Game-RJ01360185-Ver1.20.part1.rar
+        - https://srv111.mexa.sh:183/d/vbsiv5cbxoy775ghl72v2f2ycjaykgpzw5nxhbvx4a65zbp2my4kbwdlrotfnhxdazjg5wve/G-RJ01431277-v1.43.part2.rar
+        - https://srv30.mexa.sh:183/d/dfsbpfcgxoy775ghox2q6dsrbcv2346vu3wvo6qe3t4tszdzkzxm2kxkkpnpnzc5qx4mkkz7/Game-RJ01360185-Ver1.20.part2.rar
+        - https://srv21.mexa.sh:183/d/gnsi35cbxoy775ghl72rutqzbpvuus5zszboolub4v76qrvcbcumcmc4b73iybbrpdmk5q6v/G-RJ01431277-v1.43.part1.rar
     runs-on: ubuntu-latest
     steps:
     - uses: actions/cache@v4
