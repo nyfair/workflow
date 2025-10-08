@@ -11,7 +11,7 @@
       "version": "7.5"
     },
     "ComfyUI": {
-      "version": "0.3.63"
+      "version": "0.3.64"
     },
     "Everything": {
       "version": "1.5.0.1399a"
@@ -28,14 +28,11 @@
     "Megatools": {
       "version": "1.11.5.20250706"
     },
-    "Mingw-w64": {
-      "version": "20250923_15.2.1_x64-ucrt_3674adbe71cd2bcdb12206c307281d4edcf76d23"
-    },
     "NeeView": {
       "version": "44.1"
     },
     "Python": {
-      "version": "3.13.7"
+      "version": "3.13.8"
     },
     "Rust": {
       "version": "1.90.0"
@@ -129,7 +126,7 @@
       "version": "0.40.0"
     },
     "nginx": {
-      "version": "1.29.1"
+      "version": "1.29.2"
     },
     "openssl": {
       "version": "3.6.0"
