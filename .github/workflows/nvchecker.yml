@@ -31,7 +31,7 @@ jobs:
           if grep -q nginx cmp
           then
             python update_nginx.py
-            git add PKGBUILD
+            git add nginx/PKGBUILD
           fi
           git commit -m "Automate"
           git push
