@@ -11,15 +11,12 @@ jobs:
       fail-fast: false
       matrix:
         url:
-        - https://srv13.mexa.sh:183/d/kvsajekbxoy775ghl32qqskdbpl6zlzy4356kfjh46s4efnmsf73wrltw5q2pfjueheuikym/G-RJ01219535-v2.05.part1.rar
-        - https://srv111.mexa.sh:183/d/vbsavekbxoy775ghl32qydk7bo7lvfm6qcvtevcmrqpurmeetqpi4aaa7gn5evisxpqn6jto/G-RJ01219535-v2.05.part2.rar
-        - https://srv976.mexa.sh:183/d/3nshdekbxoy775ghl32raei7bbvvgnfb6fvrgpd6jxnqn6dznvwchu7ybtzqvjpixjbj6pml/G-RJ01219535-v2.05.part3.rar
-        - https://srv16.mexa.sh:183/d/6jshxekbxoy775ghl32qefs5lglxvovrgu6o24q3e7luaiutiksu6qdgy62sg4spr2h6ybcl/G-RJ01219535-v2.05.part4.rar
-        - https://srv13.mexa.sh:183/d/kvsgjekbxoy775ghl32q4fknamvbtkwyx5hlw6oup5fg3k6fzlgyi4pdevezyukjgrtsewcc/G-RJ01219535-v2.05.part5.rar
-        - https://srv43.mexa.sh:183/d/v5sltrs2xoy775ghht2qocc2a3o6vd3eq44pxgwt3752t3ijdvdcsbqrkjriw64ewh7tx4em/Game-RJ01384149-v1.0.4.part1.rar
-        - https://srv2.mexa.sh:183/d/2jskprs2xoy775ghht2v4bczbjq7aii3x73zvqy2oxvew4bifsnm2n2ingfx4zc6igzz3vcb/Game-RJ01384149-v1.0.4.part2.rar
-        - https://srv55.mexa.sh:183/d/efslrrs2xoy775ghht2qihk6ca6vhbe5wmzab462izlhpj4cd2i6b3sn75szlj6xkjlxcg3u/Game-RJ01384149-v1.0.4.part3.rar
-        - https://srv520.mexa.sh:183/d/ajsljrs2xoy775ghht2rqck5bnecwdtt5kapdzyhhfuho2lnmfg4bnvjrhoezw4nac7hyjql/Game-RJ01384149-v1.0.4.part4.rar
+        - https://srv520.mexa.sh:183/d/ajskutcaxoy775ghmt2ques7kfvoyj7mw2clm44jtxzcsjelfbqb37wsz4plh72zw2gcjr7d/Ani-RJ01387326-Ver.25.09.29.part5.rar
+        - https://srv14.mexa.sh:183/d/kzskwtcaxoy775ghmt2vcgazaoaud7nbhthmbfjua5gkyolz2ddcdvdv73xu2bzelgudb725/Ani-RJ01387326-Ver.25.09.29.part6.rar
+        - https://srv2.mexa.sh:183/d/2jsjmtcaxoy775ghmp2qos2hlebnkmhmfnhwvgou7lau6j5kbp3yqe6fhcds76lrtnwerfeb/Ani-RJ01387326-Ver.25.09.29.part4.rar
+        - https://srv13.mexa.sh:183/d/kvskytcaxoy775ghmt2vshkyapdgcvlp3zq67gw2v7y346liwltuhyq2ia6v27nux7bh5f36/Ani-RJ01387326-Ver.25.09.29.part3.rar
+        - https://srv48.mexa.sh:183/d/2fskitcaxoy775ghmt2rcsy7bzmjzbfj3h3jp2dlwpog6i5i7ncgov2ojocpqyuwmkqh57cw/Ani-RJ01387326-Ver.25.09.29.part2.rar
+        - https://srv61.mexa.sh:183/d/vrsk6tcaxoy775ghmt2qqg22kv4sjcgtatafkajjqabaz6conapeo37v7dku4uqb45lzv646/Ani-RJ01387326-Ver.25.09.29.part1.rar
     runs-on: ubuntu-latest
     steps:
     - uses: actions/cache@v4
