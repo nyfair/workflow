@@ -30,7 +30,7 @@ jobs:
           git add old.json
           if grep -q nginx cmp
           then
-            python init.py
+            python update_nginx.py
             git add PKGBUILD
           fi
           git commit -m "Automate"
