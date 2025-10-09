@@ -28,6 +28,9 @@
     "Megatools": {
       "version": "1.11.5.20250706"
     },
+    "Mingw-w64": {
+      "version": "20250923_15.2.1_x64-ucrt_3674adbe71cd2bcdb12206c307281d4edcf76d23"
+    },
     "NeeView": {
       "version": "44.1"
     },
@@ -141,7 +144,7 @@
       "version": "1.4.328.1"
     },
     "vulkan": {
-      "version": "1.4.328.1."
+      "version": "1.4.328.1"
     },
     "xplorer²": {
       "version": "6.2.0.3"
