@@ -11,12 +11,9 @@ jobs:
       fail-fast: false
       matrix:
         url:
-        - https://srv520.mexa.sh:183/d/ajskutcaxoy775ghmt2ques7kfvoyj7mw2clm44jtxzcsjelfbqb37wsz4plh72zw2gcjr7d/Ani-RJ01387326-Ver.25.09.29.part5.rar
-        - https://srv14.mexa.sh:183/d/kzskwtcaxoy775ghmt2vcgazaoaud7nbhthmbfjua5gkyolz2ddcdvdv73xu2bzelgudb725/Ani-RJ01387326-Ver.25.09.29.part6.rar
-        - https://srv2.mexa.sh:183/d/2jsjmtcaxoy775ghmp2qos2hlebnkmhmfnhwvgou7lau6j5kbp3yqe6fhcds76lrtnwerfeb/Ani-RJ01387326-Ver.25.09.29.part4.rar
-        - https://srv13.mexa.sh:183/d/kvskytcaxoy775ghmt2vshkyapdgcvlp3zq67gw2v7y346liwltuhyq2ia6v27nux7bh5f36/Ani-RJ01387326-Ver.25.09.29.part3.rar
-        - https://srv48.mexa.sh:183/d/2fskitcaxoy775ghmt2rcsy7bzmjzbfj3h3jp2dlwpog6i5i7ncgov2ojocpqyuwmkqh57cw/Ani-RJ01387326-Ver.25.09.29.part2.rar
-        - https://srv61.mexa.sh:183/d/vrsk6tcaxoy775ghmt2qqg22kv4sjcgtatafkajjqabaz6conapeo37v7dku4uqb45lzv646/Ani-RJ01387326-Ver.25.09.29.part1.rar
+        - https://srv241.mexa.sh:183/d/7jsfi4s7xoy775gh5h3f6skckw4ixdfxfflcigd23iy4ibsb5w5edzyi3ypoiladlgzgzsyg/Game-RJ01302728.part2.rar
+        - https://srv241.mexa.sh:183/d/7jsgo4s7xoy775gh5h3bufczb43zilrrxpgu2txbkcyyo2cdy5zsnpxq7snjcssec4rth372/Game-RJ01302728.part1.rar
+        - https://srv683.mexa.sh:183/d/zzshs4s7xoy775gh5h3a6f2mat7jxkkgo7q6den265t4yz3uckr5gaz74mmjt2xcjaacmvhm/Game-RJ01302728.part3.rar
     runs-on: ubuntu-latest
     steps:
     - uses: actions/cache@v4
