@@ -194,7 +194,7 @@ regex = '([\d\.]+)/"'
 [vulkan]
 source = 'regex'
 url = 'https://vulkan.lunarg.com/sdk/files.json'
-regex = 'vulkansdk-windows-X64-([\d\.]+)'
+regex = 'vulkansdk-windows-X64-([\d\.]+)\.exe'
 
 [spirv-cross]
 source = 'regex'
