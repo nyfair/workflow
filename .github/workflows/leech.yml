@@ -11,7 +11,15 @@ jobs:
       fail-fast: false
       matrix:
         url:
-        - https://mega.nz/file/9qY1kAwD#OLMiuQX4zzT4rQ4il1ac5SAFyIse77YwM_uJ4SA0n9A
+        - https://mega.nz/file/BHtDBCRA#5Fz84iYc-1ypvZ_aTSZAjIeTqQ7CpPwMya33ja6mfJY
+        - https://mega.nz/file/QKkFRCYI#D1jRVXkY8ciYdVYaIqN5KwkIVZTreMulHMEWNkumUCQ
+        - https://mega.nz/file/VHtHzCLT#uhK5nlR8iztzpuTUBgsO5c0hkvekHXOhNfwUSlUbQaM
+        - https://mega.nz/file/ZOsxQYAK#LDWzGsNqXP30i1rCbPJ7K-0GALAbFsKu8rrrz6wwr44
+        - https://srv581.mexa.sh:183/d/6rsaka2cxoy775ghi32qkrsykqphzzbngo6q4c26w5abqymep7i46mf6fmoi5vdmpau2eut3/G-RJ01453947.part1.rar
+        - https://srv9.mexa.sh:183/d/2bsawa2cxoy775ghi32qkg2fdespsqfyrvis7xscrdsfpookqq6ood23fmbiotmvjnnhfaec/G-RJ01453947.part2.rar
+        - https://srv859.mexa.sh:183/d/ybshua2cxoy775ghi32qurq6c6246h55k75hljqyr3w7ditr2g46gmypewrl7trhhjhlaen3/G-RJ01453947.part5.rar
+        - https://srv182.mexa.sh:183/d/7zshca2cxoy775ghi32r4cyrb6nlagp6touhzpkhii55ksbd6mgpwjvu4z2lzksieezbd5rv/G-RJ01453947.part3.rar
+        - https://srv29.mexa.sh:183/d/evshwa2cxoy775ghi32vsfsza5wttuwgq5mrdi2n4kqyrocwa4o4gdhzepbupe4qgnzeeidi/G-RJ01453947.part4.rar
     runs-on: ubuntu-latest
     steps:
     - uses: actions/cache@v4
