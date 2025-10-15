@@ -77,7 +77,7 @@ regex = 'releases/tag/([\d\.]+)"'
 [Python]
 source = 'regex'
 url = 'https://www.python.org/downloads'
-regex = 'Python (3.14.[\d\.]*)'
+regex = 'Python (3\.14\.[\d\.]+)'
 
 [VapourSynth]
 source = 'github'
