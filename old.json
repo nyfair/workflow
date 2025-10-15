@@ -35,7 +35,7 @@
       "version": "44.1"
     },
     "Python": {
-      "version": "3.13.9"
+      "version": "3.14"
     },
     "Rust": {
       "version": "1.90.0"
@@ -150,7 +150,7 @@
       "version": "6.2.0.3"
     },
     "xtls": {
-      "version": "25.9.11"
+      "version": "25.10.15"
     },
     "yt-dlp": {
       "version": "2025.10.14"
