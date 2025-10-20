@@ -1,0 +1,35 @@
+name: aria2
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+    - 'aria2/PKGBUILD'
+
+jobs:
+  build:
+    runs-on: windows-latest
+    steps:
+    - name: Prepare
+      run: git config --global core.autocrlf false
+    - uses: actions/checkout@v4
+    - name: Build
+      run: |
+        C:\msys64\usr\bin\bash -lc 'pacman -Sy base-devel gcc autotools zlib-devel libgnutls-devel gettext-devel --noconfirm'
+        C:\msys64\usr\bin\bash -lc 'cd /d/a/workflow/workflow/aria2; makepkg'
+    - name: Delete
+      uses: mknejp/delete-release-assets@v1
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        tag: latest
+        assets: aria2*
+        fail-if-no-assets: false
+        fail-if-no-release: false
+    - name: Upload
+      uses: svenstaro/upload-release-action@v2
+      with:
+        repo_token: ${{ secrets.GITHUB_TOKEN }}
+        file: aria2/*.zst
+        tag: latest
+        overwrite: true
+        file_glob: true

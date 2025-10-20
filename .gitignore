@@ -1,0 +1,6 @@
+*.tar.*
+*.zip
+src
+pkg
+new.json
+cmp

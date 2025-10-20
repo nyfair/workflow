@@ -1,0 +1,263 @@
+[__config__]
+oldver = 'old.json'
+newver = 'new.json'
+max_concurrency = 1
+tries = 3
+
+# tool
+[7-zip]
+source = 'cmd'
+cmd = "curl https://www.7-zip.org | grep -Po '>7-Zip \\d.*</A' | sort -r | head -1 | cut -d'<' -f1 | cut -c 8-"
+
+[WinRAR]
+source = 'cmd'
+cmd = 'curl https://www.rarlab.com/rarnew.htm | grep "Version " | head -1 | sed "s/[ \s]*Version[ \s]*//"'
+
+[foobar2000]
+source = 'regex'
+url = 'https://www.foobar2000.org/changelog'
+regex = '<h2>([\d\.]+)'
+
+['xplorer²']
+source = 'regex'
+url = 'https://www.zabkat.com'
+regex = 'v([\d\.]+) \('
+
+[Everything]
+source = 'regex'
+url = 'https://www.voidtools.com/forum/viewtopic.php?f=12&t=9787'
+regex = 'Everything-([\w\.]+).x64.zip'
+
+[NeeView]
+source = 'regex'
+url = 'https://github.com/neelabo/NeeView/tags'
+regex = 'releases/tag/([\d\.]+)"'
+
+[xtls]
+source = 'regex'
+url = 'https://github.com/XTLS/Xray-core/tags'
+regex = 'releases/tag/v([\d\.]+)"'
+
+[CheatEngine]
+source = 'regex'
+url = 'https://github.com/cheat-engine/cheat-engine/tags'
+regex = 'releases/tag/([\d\.]+)"'
+
+[Iceraven]
+source = 'regex'
+url = 'https://github.com/fork-maintainers/iceraven-browser/tags'
+regex = 'releases/tag/iceraven-([\d\.]+)"'
+
+[Iceweasel]
+source = 'regex'
+url = 'https://sourceforge.net/projects/libportable/files/Iceweasel'
+regex = 'Iceweasel ([\d\.]+)'
+
+[bdp]
+source = 'regex'
+url = 'https://github.com/qjfoidnh/BaiduPCS-Go/tags'
+regex = 'releases/tag/v([\d\.]+)"'
+
+[yt-dlp]
+source = 'regex'
+url = 'https://github.com/yt-dlp/yt-dlp/tags'
+regex = 'releases/tag/([\d\.]+)"'
+
+[ComfyUI]
+source = 'regex'
+url = 'https://github.com/comfyanonymous/ComfyUI/tags'
+regex = 'releases/tag/v([\d\.]+)"'
+
+# toy
+[Rust]
+source = 'regex'
+url = 'https://github.com/rust-lang/rust/tags'
+regex = 'releases/tag/([\d\.]+)"'
+
+[Python]
+source = 'regex'
+url = 'https://www.python.org/downloads'
+regex = 'Python (3\.14\.[\d\.]+)'
+
+[VapourSynth]
+source = 'github'
+github = 'vapoursynth/vapoursynth'
+use_latest_release = true
+
+[GCC]
+source = 'regex'
+url = 'https://gcc.gnu.org'
+regex = '>GCC ([\d\.]+)<'
+
+[Mingw-w64]
+source = 'regex'
+url = 'https://gcc--mcf-lhmouse-com.translate.goog/?_x_tr_sl=auto&_x_tr_tl=en-US&_x_tr_hl=en-US&_x_tr_pto=wapp'
+regex = 'mingw-w64-gcc-mcf_([\d]+_[\d\.]+_x64-ucrt_\w+)\.7z'
+
+# nginx
+[nginx]
+source = 'regex'
+url = 'https://nginx.org/en/download.html'
+regex = 'nginx-([\d\.]+)'
+
+[zlib-ng]
+source = 'regex'
+url = 'https://github.com/zlib-ng/zlib-ng/tags'
+regex = 'releases/tag/([\d\.]+)"'
+
+[openssl]
+source = 'regex'
+url = 'https://github.com/openssl/openssl/tags'
+regex = 'releases/tag/openssl-([\d\.]+)"'
+
+# mpv
+[ffmpeg]
+source = 'regex'
+url = 'https://ffmpeg.org/download.html'
+regex = 'FFmpeg ([\d\.]+)'
+
+[mpv]
+source = 'regex'
+url = 'https://github.com/mpv-player/mpv/tags'
+regex = 'releases/tag/v([\d\.]+)"'
+
+[ffnvcodec]
+source = 'regex'
+url = 'https://github.com/FFmpeg/nv-codec-headers/tags'
+regex = 'releases/tag/n([\d\.]+)"'
+
+[lame]
+source = 'regex'
+url = 'https://lame.sourceforge.io/'
+regex = 'v([\d\.]+)'
+
+[libogg]
+source = 'regex'
+url = 'https://github.com/xiph/ogg/tags'
+regex = 'releases/tag/v([\d\.]+)"'
+
+[libvorbis]
+source = 'regex'
+url = 'https://github.com/xiph/vorbis/tags'
+regex = 'releases/tag/v([\d\.]+)"'
+
+[opus]
+source = 'regex'
+url = 'https://github.com/xiph/opus/tags'
+regex = 'releases/tag/v([\d\.]+)"'
+
+[lcms2]
+source = 'regex'
+url = 'https://github.com/mm2/Little-CMS/tags'
+regex = 'releases/tag/lcms([\d\.]+)"'
+
+[libass]
+source = 'regex'
+url = 'https://github.com/libass/libass/tags'
+regex = 'releases/tag/([\d\.]+)"'
+
+[freetype2]
+source = 'regex'
+url = 'https://freetype.org/'
+regex = 'FreeType ([\d\-\.]+)'
+
+[fribidi]
+source = 'regex'
+url = 'https://github.com/fribidi/fribidi/tags'
+regex = 'releases/tag/v([\d\.]+)"'
+
+[harfbuzz]
+source = 'regex'
+url = 'https://github.com/harfbuzz/harfbuzz/tags'
+regex = 'releases/tag/([\d\.]+)"'
+
+[libbluray]
+source = 'regex'
+url = 'https://download.videolan.org/pub/videolan/libbluray/'
+regex = '([\d\.]+)/"'
+
+[libdvdnav]
+source = 'regex'
+url = 'https://download.videolan.org/pub/videolan/libdvdnav/'
+regex = '([\d\.]+)/"'
+
+[libdvdread]
+source = 'regex'
+url = 'https://download.videolan.org/pub/videolan/libdvdread/'
+regex = '([\d\.]+)/"'
+
+[libdvdcss]
+source = 'regex'
+url = 'https://download.videolan.org/pub/videolan/libdvdcss/'
+regex = '([\d\.]+)/"'
+
+[vulkan]
+source = 'regex'
+url = 'https://vulkan.lunarg.com/sdk/files.json'
+regex = 'vulkansdk-windows-X64-([\d\.]+)\.exe'
+
+[spirv-cross]
+source = 'regex'
+url = 'https://github.com/KhronosGroup/SPIRV-Cross/tags'
+regex = 'releases/tag/vulkan-sdk-([\d\.]+)"'
+
+[shaderc]
+source = 'regex'
+url = 'https://github.com/google/shaderc/tags'
+regex = 'releases/tag/v([\d\.]+)"'
+
+[libplacebo]
+source = 'regex'
+url = 'https://github.com/haasn/libplacebo/tags'
+regex = 'releases/tag/v([\d\.]+)"'
+
+[highway]
+source = 'regex'
+url = 'https://github.com/google/highway/tags'
+regex = 'releases/tag/([\d\.]+)"'
+
+[brotli]
+source = 'regex'
+url = 'https://github.com/google/brotli/tags'
+regex = 'releases/tag/v([\d\.]+)"'
+
+# image
+[libpng]
+source = 'regex'
+url = 'https://github.com/pnggroup/libpng/tags'
+regex = 'releases/tag/v([\d\.]+)"'
+
+[libtiff]
+source = 'regex'
+url = 'https://github.com/libsdl-org/libtiff/tags'
+regex = 'releases/tag/v([\d\.]+)"'
+
+[libwebp]
+source = 'regex'
+url = 'https://github.com/webmproject/libwebp/tags'
+regex = 'releases/tag/v([\d\.]+)"'
+
+[mozjpeg]
+source = 'regex'
+url = 'https://github.com/mozilla/mozjpeg/tags'
+regex = 'releases/tag/v([\d\.]+)"'
+
+[libjxl]
+source = 'regex'
+url = 'https://github.com/libjxl/libjxl/tags'
+regex = 'releases/tag/v([\d\.]+)"'
+
+# leech
+[aria2]
+source = 'github'
+github = 'aria2/aria2'
+
+[AriaNg]
+source = 'regex'
+url = 'https://github.com/mayswind/AriaNg/tags'
+regex = 'releases/tag/([\d\.]+)"'
+
+[Megatools]
+source = 'regex'
+url = 'https://megatools.megous.com/builds/builds'
+regex = 'megatools-([\w\.-]+)\.tar\.gz\.asc'

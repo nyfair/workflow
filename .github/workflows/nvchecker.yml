@@ -1,0 +1,38 @@
+name: nvchecker
+
+on:
+  workflow_dispatch:
+  schedule:
+  - cron: '5 0 * * *'
+  push:
+    paths:
+    - 'xxoo.toml'
+
+jobs:
+  version_check:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.BOT }}
+    - name: Check Latest Version
+      run: |
+        sudo apt update
+        sudo apt install python3-pycurl python3-tornado
+        pip3 install nvchecker in_place
+        nvchecker -c xxoo.toml
+        nvcmp -c xxoo.toml > cmp
+        if [ -s cmp ]
+        then
+          git config --global user.name 'nyfair'
+          git config --global user.email 'nyfair2012@gmail.com'
+          mv new.json old.json
+          git add old.json
+          if grep -q nginx cmp
+          then
+            python update_nginx.py
+            git add nginx/PKGBUILD
+          fi
+          git commit -m "Automate"
+          git push
+        fi
