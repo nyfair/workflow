@@ -25,8 +25,11 @@
     "Iceweasel": {
       "version": "144.0"
     },
+    "Megatools": {
+      "version": "1.11.5.20250706"
+    },
     "Mingw-w64": {
-      "version": "20251009_15.2.1_x64-ucrt_b423ec7051c2f516c4c495cf85b47e0363296b13"
+      "version": "20251022_16.0.0_x64-ucrt_b68ec252ea427011b29267f05cd481095ae306b7"
     },
     "NeeView": {
       "version": "44.1"
@@ -150,7 +153,7 @@
       "version": "25.10.15"
     },
     "yt-dlp": {
-      "version": "2025.10.14"
+      "version": "2025.10.22"
     },
     "zlib-ng": {
       "version": "2.2.5"
