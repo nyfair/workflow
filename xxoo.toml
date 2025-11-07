@@ -80,9 +80,9 @@ url = 'https://www.python.org/downloads'
 regex = 'Python (3\.14\.[\d\.]+)'
 
 [VapourSynth]
-source = 'github'
-github = 'vapoursynth/vapoursynth'
-use_latest_release = true
+source = 'regex'
+url = 'https://github.com/vapoursynth/vapoursynth/tags'
+regex = 'releases/tag/(R[\d\.]+)"'
 
 [GCC]
 source = 'regex'
@@ -249,8 +249,9 @@ regex = 'releases/tag/v([\d\.]+)"'
 
 # leech
 [aria2]
-source = 'github'
-github = 'aria2/aria2'
+source = 'regex'
+url = 'https://github.com/aria2/aria2/tags'
+regex = 'releases/tag/release-([\d\.]+)"'
 
 [AriaNg]
 source = 'regex'
