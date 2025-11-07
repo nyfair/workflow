@@ -40,8 +40,14 @@
     "Rust": {
       "version": "1.91.0"
     },
+    "VapourSynth": {
+      "version": "R72"
+    },
     "WinRAR": {
       "version": "7.20 beta 1"
+    },
+    "aria2": {
+      "version": "1.37.0"
     },
     "bdp": {
       "version": "4.0.0"
