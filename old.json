@@ -29,7 +29,7 @@
       "version": "1.11.5.20250706"
     },
     "Mingw-w64": {
-      "version": "20251022_16.0.0_x64-ucrt_b68ec252ea427011b29267f05cd481095ae306b7"
+      "version": "20251106_16.0.0_x64-ucrt_cea33f3edb0ec3f8ebde594581e52878c8efa364"
     },
     "NeeView": {
       "version": "44.1"
@@ -40,18 +40,8 @@
     "Rust": {
       "version": "1.91.0"
     },
-    "VapourSynth": {
-      "version": "R72",
-      "gitref": "refs/tags/R72",
-      "url": "https://github.com/vapoursynth/vapoursynth/releases/tag/R72"
-    },
     "WinRAR": {
       "version": "7.20 beta 1"
-    },
-    "aria2": {
-      "version": "20250818.085053",
-      "revision": "d372b788ec2891164a93556c4a7dd4b0cf74c669",
-      "url": "https://github.com/aria2/aria2/commit/d372b788ec2891164a93556c4a7dd4b0cf74c669"
     },
     "bdp": {
       "version": "4.0.0"
