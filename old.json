@@ -22,6 +22,9 @@
     "Iceraven": {
       "version": "2.37.0"
     },
+    "Iceweasel": {
+      "version": "145.0"
+    },
     "Megatools": {
       "version": "1.11.5.20250706"
     },
@@ -35,7 +38,7 @@
       "version": "3.14.0"
     },
     "Rust": {
-      "version": "1.91.0"
+      "version": "1.91.1"
     },
     "VapourSynth": {
       "version": "R72"
