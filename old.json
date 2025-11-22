@@ -11,7 +11,7 @@
       "version": "7.5"
     },
     "ComfyUI": {
-      "version": "0.3.70"
+      "version": "0.3.71"
     },
     "Everything": {
       "version": "1.5.0.1400a"
@@ -29,7 +29,7 @@
       "version": "1.11.5.20250706"
     },
     "Mingw-w64": {
-      "version": "20251106_16.0.0_x64-ucrt_cea33f3edb0ec3f8ebde594581e52878c8efa364"
+      "version": "20251121_16.0.0_x64-ucrt_18c30fbc93c3722ca59211658b0068c2f746ae36"
     },
     "NeeView": {
       "version": "44.1"
@@ -107,7 +107,7 @@
       "version": "7.351.0"
     },
     "libpng": {
-      "version": "1.6.50"
+      "version": "1.6.51"
     },
     "libtiff": {
       "version": "4.7.1"
