@@ -14,7 +14,7 @@
       "version": "0.3.75"
     },
     "Everything": {
-      "version": "1.5.0.1400a"
+      "version": "1.5.0.1402a"
     },
     "GCC": {
       "version": "15.2"
@@ -134,7 +134,7 @@
       "version": "1.5.2"
     },
     "shaderc": {
-      "version": "2025.4"
+      "version": "2025.5"
     },
     "spirv-cross": {
       "version": "1.4.328.1"
@@ -152,7 +152,7 @@
       "version": "2025.11.12"
     },
     "zlib-ng": {
-      "version": "2.2.5"
+      "version": "2.3.1"
     }
   }
 }
