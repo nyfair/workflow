@@ -11,7 +11,7 @@
       "version": "7.5"
     },
     "ComfyUI": {
-      "version": "0.3.75"
+      "version": "0.3.76"
     },
     "Everything": {
       "version": "1.5.0.1402a"
@@ -24,9 +24,6 @@
     },
     "Iceweasel": {
       "version": "145.0.2"
-    },
-    "Megatools": {
-      "version": "1.11.5.20250706"
     },
     "Mingw-w64": {
       "version": "20251121_16.0.0_x64-ucrt_18c30fbc93c3722ca59211658b0068c2f746ae36"
@@ -146,7 +143,7 @@
       "version": "6.2.0.3"
     },
     "xtls": {
-      "version": "25.10.15"
+      "version": "25.12.1"
     },
     "yt-dlp": {
       "version": "2025.11.12"
