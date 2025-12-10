@@ -53,16 +53,6 @@ source = 'regex'
 url = 'https://sourceforge.net/projects/libportable/files/Iceweasel'
 regex = 'Iceweasel ([\d\.]+)'
 
-[bdp]
-source = 'regex'
-url = 'https://github.com/qjfoidnh/BaiduPCS-Go/tags'
-regex = 'releases/tag/v([\d\.]+)"'
-
-[yt-dlp]
-source = 'regex'
-url = 'https://github.com/yt-dlp/yt-dlp/tags'
-regex = 'releases/tag/([\d\.]+)"'
-
 [ComfyUI]
 source = 'regex'
 url = 'https://github.com/comfyanonymous/ComfyUI/tags'
@@ -104,11 +94,6 @@ regex = 'nginx-([\d\.]+)'
 source = 'regex'
 url = 'https://github.com/zlib-ng/zlib-ng/tags'
 regex = 'releases/tag/([\d\.]+)"'
-
-[openssl]
-source = 'regex'
-url = 'https://github.com/openssl/openssl/tags'
-regex = 'releases/tag/openssl-([\d\.]+)"'
 
 # mpv
 [ffmpeg]
@@ -257,8 +242,3 @@ regex = 'releases/tag/release-([\d\.]+)"'
 source = 'regex'
 url = 'https://github.com/mayswind/AriaNg/tags'
 regex = 'releases/tag/([\d\.]+)"'
-
-[Megatools]
-source = 'regex'
-url = 'https://megatools.megous.com/builds/builds'
-regex = 'megatools-([\w\.-]+)\.tar\.gz\.asc'
