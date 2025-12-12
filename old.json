@@ -14,7 +14,7 @@
       "version": "0.4.0"
     },
     "Everything": {
-      "version": "1.5.0.1402a"
+      "version": "1.5.0.1403a"
     },
     "GCC": {
       "version": "15.2"
@@ -35,7 +35,7 @@
       "version": "3.14.2"
     },
     "Rust": {
-      "version": "1.91.1"
+      "version": "1.92.0"
     },
     "VapourSynth": {
       "version": "R73"
@@ -45,9 +45,6 @@
     },
     "aria2": {
       "version": "1.37.0"
-    },
-    "bdp": {
-      "version": "4.0.0"
     },
     "brotli": {
       "version": "1.2.0"
@@ -141,9 +138,6 @@
     },
     "xtls": {
       "version": "25.12.8"
-    },
-    "yt-dlp": {
-      "version": "2025.12.08"
     },
     "zlib-ng": {
       "version": "2.3.2"
