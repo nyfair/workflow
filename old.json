@@ -25,6 +25,9 @@
     "Iceweasel": {
       "version": "146.0"
     },
+    "Mingw-w64": {
+      "version": "20251205_16.0.0_x64-ucrt_6b5bdaf8243011cf38ae7da54c8b7d2e98b9614b"
+    },
     "NeeView": {
       "version": "44.1"
     },
