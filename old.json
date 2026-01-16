@@ -11,7 +11,7 @@
       "version": "7.5"
     },
     "ComfyUI": {
-      "version": "0.9.1"
+      "version": "0.9.2"
     },
     "Everything": {
       "version": "1.5.0.1404a"
@@ -122,7 +122,7 @@
       "version": "1.29.4"
     },
     "opus": {
-      "version": "1.6"
+      "version": "1.6.1"
     },
     "shaderc": {
       "version": "2025.5"
