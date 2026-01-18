@@ -13,7 +13,7 @@ jobs:
     - name: Build
       run: |
         C:\msys64\usr\bin\bash -lc 'pacman -Syu --noconfirm'
-        C:\msys64\usr\bin\bash -lc 'pacman -S base-devel gcc git fish --noconfirm'
+        C:\msys64\usr\bin\bash -lc 'pacman -S base-devel gcc git fish libiconv --noconfirm'
         C:\msys64\usr\bin\bash -lc 'cd /d/a/workflow/workflow; fish build_msys2.fish'
     # - uses: mxschmitt/action-tmate@v3
     - name: Upload
