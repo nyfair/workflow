@@ -125,7 +125,7 @@
       "version": "1.6.1"
     },
     "shaderc": {
-      "version": "2025.5"
+      "version": "2026.1"
     },
     "spirv-cross": {
       "version": "1.4.335.0"
@@ -137,7 +137,7 @@
       "version": "6.2.0.3"
     },
     "xtls": {
-      "version": "26.1.18"
+      "version": "26.1.23"
     },
     "zlib-ng": {
       "version": "2.3.2"
