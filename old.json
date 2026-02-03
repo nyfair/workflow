@@ -128,16 +128,16 @@
       "version": "2026.1"
     },
     "spirv-cross": {
-      "version": "1.4.335.0"
+      "version": "1.4.341.0"
     },
     "vulkan": {
-      "version": "1.4.335.0"
+      "version": "1.4.341.0"
     },
     "xplorer²": {
       "version": "6.2.0.3"
     },
     "xtls": {
-      "version": "26.1.31"
+      "version": "26.2.2"
     },
     "zlib-ng": {
       "version": "2.3.2"
