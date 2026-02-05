@@ -11,7 +11,7 @@
       "version": "7.5"
     },
     "ComfyUI": {
-      "version": "0.12.1"
+      "version": "0.12.2"
     },
     "Everything": {
       "version": "1.5.0.1404a"
@@ -23,7 +23,7 @@
       "version": "2.40.0"
     },
     "Iceweasel": {
-      "version": "147.0.2"
+      "version": "147.0.3"
     },
     "Mingw-w64": {
       "version": "20260121_16.0.1_x64-ucrt_f769e317d4aa45aa3b724e83043debb949254a7c"
@@ -41,7 +41,7 @@
       "version": "R73"
     },
     "WinRAR": {
-      "version": "7.20 beta 3"
+      "version": "7.20"
     },
     "aria2": {
       "version": "1.37.0"
@@ -119,7 +119,7 @@
       "version": "0.41.0"
     },
     "nginx": {
-      "version": "1.29.4"
+      "version": "1.29.5"
     },
     "opus": {
       "version": "1.6.1"
@@ -131,7 +131,7 @@
       "version": "1.4.341.0"
     },
     "vulkan": {
-      "version": "1.4.341.0"
+      "version": "1.4.341.1"
     },
     "xplorer²": {
       "version": "6.2.0.3"
