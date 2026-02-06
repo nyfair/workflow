@@ -176,11 +176,6 @@ source = 'regex'
 url = 'https://download.videolan.org/pub/videolan/libdvdcss/'
 regex = '([\d\.]+)/"'
 
-[vulkan]
-source = 'regex'
-url = 'https://vulkan.lunarg.com/sdk/files.json'
-regex = 'vulkansdk-windows-X64-([\d\.]+)\.exe'
-
 [spirv-cross]
 source = 'regex'
 url = 'https://github.com/KhronosGroup/SPIRV-Cross/tags'
