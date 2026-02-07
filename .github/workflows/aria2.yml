@@ -12,7 +12,7 @@ jobs:
     steps:
     - name: Prepare
       run: git config --global core.autocrlf false
-    - uses: actions/checkout@v4
+    - uses: actions/checkout@v6
     - name: Build
       run: |
         C:\msys64\usr\bin\bash -lc 'pacman -Sy base-devel gcc autotools zlib-devel libgnutls-devel gettext-devel --noconfirm'

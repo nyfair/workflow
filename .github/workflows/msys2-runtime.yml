@@ -9,13 +9,12 @@ jobs:
     steps:
     - name: Prepare
       run: git config --global core.autocrlf false
-    - uses: actions/checkout@v4
+    - uses: actions/checkout@v6
     - name: Build
       run: |
         C:\msys64\usr\bin\bash -lc 'pacman -Syu --noconfirm'
         C:\msys64\usr\bin\bash -lc 'pacman -S base-devel gcc git fish libiconv --noconfirm'
         C:\msys64\usr\bin\bash -lc 'cd /d/a/workflow/workflow; fish build_msys2.fish'
-    # - uses: mxschmitt/action-tmate@v3
     - name: Upload
       uses: svenstaro/upload-release-action@v2
       with:
