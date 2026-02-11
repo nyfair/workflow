@@ -84,6 +84,11 @@ source = 'regex'
 url = 'https://gcc--mcf-lhmouse-com.translate.goog/?_x_tr_sl=auto&_x_tr_tl=en-US&_x_tr_hl=en-US&_x_tr_pto=wapp'
 regex = 'mingw-w64-gcc-mcf_([\d]+_[\d\.]+_x64-ucrt_\w+)\.7z'
 
+[bevy]
+source = 'regex'
+url = 'https://github.com/bevyengine/bevy/tags'
+regex = 'releases/tag/v([\d\.]+)"'
+
 # nginx
 [nginx]
 source = 'regex'
