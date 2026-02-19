@@ -11,7 +11,7 @@
       "version": "7.5"
     },
     "ComfyUI": {
-      "version": "0.14.1"
+      "version": "0.14.2"
     },
     "Everything": {
       "version": "1.5.0.1404a"
@@ -59,7 +59,7 @@
       "version": "13.0.19.0"
     },
     "foobar2000": {
-      "version": "2.25.6"
+      "version": "2.25.7"
     },
     "freetype2": {
       "version": "2.14.1"
@@ -134,7 +134,7 @@
       "version": "1.4.341.0"
     },
     "xplorer²": {
-      "version": "6.2.0.3"
+      "version": "6.3.0.0"
     },
     "xtls": {
       "version": "26.2.6"
