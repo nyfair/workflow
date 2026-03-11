@@ -23,7 +23,7 @@
       "version": "2.41.3"
     },
     "Iceweasel": {
-      "version": "147.0.4"
+      "version": "148.0.2"
     },
     "Mingw-w64": {
       "version": "20260306_16.0.1_x64-ucrt_441bd27b0fedee43c3868e643edbf2decb79f15f"
@@ -68,7 +68,7 @@
       "version": "1.0.16"
     },
     "harfbuzz": {
-      "version": "13.0.1"
+      "version": "13.1.0"
     },
     "highway": {
       "version": "1.3.0"
@@ -122,7 +122,7 @@
       "version": "0.41.0"
     },
     "nginx": {
-      "version": "1.29.5"
+      "version": "1.29.6"
     },
     "opus": {
       "version": "1.6.1"
