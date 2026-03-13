@@ -11,10 +11,10 @@
       "version": "7.5"
     },
     "ComfyUI": {
-      "version": "0.16.4"
+      "version": "0.17.0"
     },
     "Everything": {
-      "version": "1.5.0.1406a"
+      "version": "1.5.0.1407a"
     },
     "GCC": {
       "version": "15.2"
@@ -68,7 +68,7 @@
       "version": "1.0.16"
     },
     "harfbuzz": {
-      "version": "13.1.0"
+      "version": "13.1.1"
     },
     "highway": {
       "version": "1.3.0"
