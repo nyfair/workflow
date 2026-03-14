@@ -11,7 +11,7 @@
       "version": "7.5"
     },
     "ComfyUI": {
-      "version": "0.17.0"
+      "version": "0.17.1"
     },
     "Everything": {
       "version": "1.5.0.1407a"
@@ -101,7 +101,7 @@
       "version": "1.3.6"
     },
     "libplacebo": {
-      "version": "7.360.0"
+      "version": "7.360.1"
     },
     "libpng": {
       "version": "1.6.55"
