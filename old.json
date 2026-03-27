@@ -11,7 +11,7 @@
       "version": "7.5"
     },
     "ComfyUI": {
-      "version": "0.18.2"
+      "version": "0.18.3"
     },
     "Everything": {
       "version": "1.5.0.1407a"
@@ -26,7 +26,7 @@
       "version": "149.0"
     },
     "Mingw-w64": {
-      "version": "20260306_16.0.1_x64-ucrt_441bd27b0fedee43c3868e643edbf2decb79f15f"
+      "version": "20260326_16.0.1_x64-ucrt_bee6dcac242dc16dcd69746ab2d7a93e4e5af7c4"
     },
     "NeeView": {
       "version": "45.3"
@@ -35,7 +35,7 @@
       "version": "3.14.3"
     },
     "Rust": {
-      "version": "1.94.0"
+      "version": "1.94.1"
     },
     "VapourSynth": {
       "version": "R73"
@@ -59,7 +59,7 @@
       "version": "13.0.19.0"
     },
     "foobar2000": {
-      "version": "2.25.7"
+      "version": "2.25.8"
     },
     "freetype2": {
       "version": "2.14.3"
