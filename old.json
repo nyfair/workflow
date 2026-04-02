@@ -14,7 +14,7 @@
       "version": "0.18.3"
     },
     "Everything": {
-      "version": "1.5.0.1407a"
+      "version": "1.5.0.1408a"
     },
     "GCC": {
       "version": "15.2"
@@ -68,7 +68,7 @@
       "version": "1.0.16"
     },
     "harfbuzz": {
-      "version": "13.2.1"
+      "version": "14.0.0"
     },
     "highway": {
       "version": "1.3.0"
