@@ -23,7 +23,7 @@
       "version": "2.42.1"
     },
     "Iceweasel": {
-      "version": "149.0"
+      "version": "149.0.2"
     },
     "Mingw-w64": {
       "version": "20260326_16.0.1_x64-ucrt_bee6dcac242dc16dcd69746ab2d7a93e4e5af7c4"
@@ -68,7 +68,7 @@
       "version": "1.0.16"
     },
     "harfbuzz": {
-      "version": "14.0.0"
+      "version": "14.1.0"
     },
     "highway": {
       "version": "1.3.0"
