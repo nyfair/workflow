@@ -104,7 +104,7 @@
       "version": "7.360.1"
     },
     "libpng": {
-      "version": "1.6.57"
+      "version": "1.6.58"
     },
     "libtiff": {
       "version": "4.7.1"
@@ -137,7 +137,7 @@
       "version": "6.3.0.3"
     },
     "xtls": {
-      "version": "26.4.13"
+      "version": "26.4.15"
     },
     "zlib-ng": {
       "version": "2.3.3"
