@@ -14,7 +14,7 @@
       "version": "0.20.1"
     },
     "Everything": {
-      "version": "1.5.0.1408a"
+      "version": "1.5.0.1409a"
     },
     "GCC": {
       "version": "16.1"
@@ -26,7 +26,7 @@
       "version": "150.0.1"
     },
     "Mingw-w64": {
-      "version": "20260422_16.0.1_x64-ucrt_155c1ec7d24cb3b18777d75c1e5768e615e53401"
+      "version": "20260501_16.1.0_x64-ucrt_f121ef6f11dd7f1dc8144f76f86ed57f2f54b99a"
     },
     "NeeView": {
       "version": "45.3"
@@ -38,7 +38,7 @@
       "version": "1.95.0"
     },
     "VapourSynth": {
-      "version": "R74"
+      "version": "R75"
     },
     "WinRAR": {
       "version": "7.21"
