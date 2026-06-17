@@ -38,7 +38,7 @@
       "version": "1.96.0"
     },
     "VapourSynth": {
-      "version": "R76"
+      "version": "R77"
     },
     "WinRAR": {
       "version": "7.22"
@@ -53,7 +53,7 @@
       "version": "1.2.0"
     },
     "ffmpeg": {
-      "version": "8.1.1"
+      "version": "8.1.2"
     },
     "ffnvcodec": {
       "version": "13.0.19.0"
