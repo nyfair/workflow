@@ -11,7 +11,7 @@
       "version": "7.5"
     },
     "ComfyUI": {
-      "version": "0.25.0"
+      "version": "0.25.1"
     },
     "Everything": {
       "version": "1.5.0.1415b"
@@ -23,7 +23,7 @@
       "version": "2.44.0"
     },
     "Iceweasel": {
-      "version": "151.0.4"
+      "version": "152.0"
     },
     "Mingw-w64": {
       "version": "20260605_16.1.1_x64-ucrt_e753cf10082f41bfef8ab8d40d223f865e7e3f62"
@@ -47,7 +47,7 @@
       "version": "1.37.0"
     },
     "bevy": {
-      "version": "0.18.1"
+      "version": "0.19.0"
     },
     "brotli": {
       "version": "1.2.0"
@@ -122,7 +122,7 @@
       "version": "0.41.0"
     },
     "nginx": {
-      "version": "1.31.1"
+      "version": "1.31.2"
     },
     "opus": {
       "version": "1.6.1"
