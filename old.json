@@ -23,7 +23,7 @@
       "version": "2.44.0"
     },
     "Iceweasel": {
-      "version": "152.0"
+      "version": "152.0.1"
     },
     "Mingw-w64": {
       "version": "20260605_16.1.1_x64-ucrt_e753cf10082f41bfef8ab8d40d223f865e7e3f62"
@@ -131,7 +131,7 @@
       "version": "2026.2"
     },
     "spirv-cross": {
-      "version": "1.4.350.0"
+      "version": "1.4.350.1"
     },
     "xplorer²": {
       "version": "6.3.0.3"
