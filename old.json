@@ -23,10 +23,10 @@
       "version": "2.45.0"
     },
     "Iceweasel": {
-      "version": "152.0.1"
+      "version": "152.0.2"
     },
     "Mingw-w64": {
-      "version": "20260605_16.1.1_x64-ucrt_e753cf10082f41bfef8ab8d40d223f865e7e3f62"
+      "version": "20260622_16.1.1_x64-ucrt_e42786febcb585e0c50fd073e5edc8addb145c28"
     },
     "NeeView": {
       "version": "45.3"
@@ -137,7 +137,7 @@
       "version": "6.3.0.3"
     },
     "xtls": {
-      "version": "26.6.1"
+      "version": "26.6.22"
     },
     "zlib-ng": {
       "version": "2.3.3"
