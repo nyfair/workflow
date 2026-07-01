@@ -11,7 +11,7 @@
       "version": "7.5"
     },
     "ComfyUI": {
-      "version": "0.26.2"
+      "version": "0.27.0"
     },
     "Everything": {
       "version": "1.5.0.1415b"
@@ -35,13 +35,13 @@
       "version": "3.14.6"
     },
     "Rust": {
-      "version": "1.96.0"
+      "version": "1.96.1"
     },
     "VapourSynth": {
       "version": "R77"
     },
     "WinRAR": {
-      "version": "7.22"
+      "version": "7.23"
     },
     "aria2": {
       "version": "1.37.0"
