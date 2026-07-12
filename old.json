@@ -71,7 +71,7 @@
       "version": "1.4.0"
     },
     "lame": {
-      "version": "3.100"
+      "version": "4.0"
     },
     "lcms2": {
       "version": "2.19.1"
@@ -134,7 +134,7 @@
       "version": "6.3.0.3"
     },
     "xtls": {
-      "version": "26.6.27"
+      "version": "26.7.11"
     },
     "zlib-ng": {
       "version": "2.3.3"
