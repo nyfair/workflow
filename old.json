@@ -16,14 +16,11 @@
     "Everything": {
       "version": "1.5.0.1416b"
     },
-    "GCC": {
-      "version": "16.1"
-    },
     "Iceraven": {
       "version": "2.45.0"
     },
     "Iceweasel": {
-      "version": "152.0.5"
+      "version": "152.0.6"
     },
     "Mingw-w64": {
       "version": "20260702_16.1.1_x64-ucrt_e194ac3b5f64ddf8dca9124a3c55da7dfcca108c"
@@ -53,7 +50,7 @@
       "version": "8.1.2"
     },
     "ffnvcodec": {
-      "version": "13.0.19.0"
+      "version": "13.1.15.0"
     },
     "foobar2000": {
       "version": "2.25.10"
@@ -89,7 +86,7 @@
       "version": "7.0.0"
     },
     "libdvdread": {
-      "version": "7.0.1"
+      "version": "7.1.0"
     },
     "libjxl": {
       "version": "0.12.0"
