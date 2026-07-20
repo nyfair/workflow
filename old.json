@@ -7,9 +7,6 @@
     "AriaNg": {
       "version": "1.3.14"
     },
-    "CheatEngine": {
-      "version": "7.5"
-    },
     "ComfyUI": {
       "version": "0.28.2"
     },
@@ -92,7 +89,7 @@
       "version": "7.0.0"
     },
     "libdvdread": {
-      "version": "7.1.0"
+      "version": "7.1.1"
     },
     "libjxl": {
       "version": "0.12.0"
