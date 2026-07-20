@@ -40,7 +40,7 @@ regex = 'releases/tag/v([\d\.]+)"'
 
 [CheatEngine]
 source = 'regex'
-url = 'https://github.com/cheat-engine/cheat-engine/tags'
+url = 'https://www.cheatengine.org/downloads.php'
 regex = 'releases/tag/([\d\.]+)"'
 
 [Iceraven]
