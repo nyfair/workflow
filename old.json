@@ -16,9 +16,6 @@
     "Everything": {
       "version": "1.5.0.1418b"
     },
-    "GCC": {
-      "version": "16.1"
-    },
     "Iceraven": {
       "version": "2.45.0"
     },
@@ -38,7 +35,7 @@
       "version": "1.97.1"
     },
     "VapourSynth": {
-      "version": "R77"
+      "version": "R78"
     },
     "WinRAR": {
       "version": "7.23"
