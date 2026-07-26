@@ -16,6 +16,9 @@
     "Everything": {
       "version": "1.5.0.1418b"
     },
+    "GCC": {
+      "version": "16.1"
+    },
     "Iceraven": {
       "version": "2.45.0"
     },
