@@ -11,7 +11,7 @@
       "version": "7.7"
     },
     "ComfyUI": {
-      "version": "0.28.3"
+      "version": "0.29.0"
     },
     "Everything": {
       "version": "1.5.0.1418b"
@@ -23,7 +23,7 @@
       "version": "2.46.0"
     },
     "Iceweasel": {
-      "version": "153.0"
+      "version": "153.0.1"
     },
     "Mingw-w64": {
       "version": "20260721_16.1.1_x64-ucrt_1718c24d2f2004051a55afaa1a6c991369a870d5"
@@ -131,13 +131,13 @@
       "version": "2026.3"
     },
     "spirv-cross": {
-      "version": "1.4.350.1"
+      "version": "1.4.357.0"
     },
     "xplorer²": {
       "version": "6.3.0.3"
     },
     "xtls": {
-      "version": "26.7.11"
+      "version": "26.7.28"
     },
     "zlib-ng": {
       "version": "2.3.3"
