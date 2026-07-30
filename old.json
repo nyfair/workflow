@@ -83,10 +83,10 @@
       "version": "0.17.5"
     },
     "libbluray": {
-      "version": "1.4.1"
+      "version": "1.5.0"
     },
     "libdvdcss": {
-      "version": "1.5.0"
+      "version": "1.6.0"
     },
     "libdvdnav": {
       "version": "7.0.0"
