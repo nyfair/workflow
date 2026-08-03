@@ -11,7 +11,7 @@
       "version": "7.7"
     },
     "ComfyUI": {
-      "version": "0.29.2"
+      "version": "0.30.0"
     },
     "Everything": {
       "version": "1.5.0.1418b"
@@ -29,7 +29,7 @@
       "version": "20260721_16.1.1_x64-ucrt_1718c24d2f2004051a55afaa1a6c991369a870d5"
     },
     "NeeView": {
-      "version": "46.1"
+      "version": "46.2"
     },
     "Python": {
       "version": "3.14.6"
