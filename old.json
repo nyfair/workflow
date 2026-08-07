@@ -14,7 +14,7 @@
       "version": "0.30.2"
     },
     "Everything": {
-      "version": "1.5.0.1418b"
+      "version": "1.5.0.1419b"
     },
     "GCC": {
       "version": "16.1"
@@ -26,7 +26,7 @@
       "version": "153.0.3"
     },
     "Mingw-w64": {
-      "version": "20260721_16.1.1_x64-ucrt_1718c24d2f2004051a55afaa1a6c991369a870d5"
+      "version": "20260806_16.1.1_x64-ucrt_66d194368b04799ff78ee5ef3116b728e3c00488"
     },
     "NeeView": {
       "version": "46.2"
