@@ -23,7 +23,7 @@
       "version": "2.46.0"
     },
     "Iceweasel": {
-      "version": "153.0.3"
+      "version": "153.0.4"
     },
     "Mingw-w64": {
       "version": "20260806_16.1.1_x64-ucrt_66d194368b04799ff78ee5ef3116b728e3c00488"
@@ -47,13 +47,13 @@
       "version": "1.37.0"
     },
     "bevy": {
-      "version": "0.19.0"
+      "version": "0.19.1"
     },
     "brotli": {
       "version": "1.2.0"
     },
     "ffmpeg": {
-      "version": "9.0"
+      "version": "9.0.1"
     },
     "ffnvcodec": {
       "version": "13.1.15.0"
@@ -68,7 +68,7 @@
       "version": "1.0.16"
     },
     "harfbuzz": {
-      "version": "14.3.0"
+      "version": "14.3.1"
     },
     "highway": {
       "version": "1.4.0"
