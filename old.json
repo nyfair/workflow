@@ -11,7 +11,7 @@
       "version": "7.7.1"
     },
     "ComfyUI": {
-      "version": "0.33.2"
+      "version": "0.33.3"
     },
     "Everything": {
       "version": "1.5.0.1422b"
@@ -26,7 +26,7 @@
       "version": "154.0"
     },
     "Mingw-w64": {
-      "version": "20260806_16.1.1_x64-ucrt_66d194368b04799ff78ee5ef3116b728e3c00488"
+      "version": "20260820_16.2.1_x64-ucrt_c0ac056d538c704a0306be82230d787e3a0960c2"
     },
     "NeeView": {
       "version": "46.3"
@@ -35,7 +35,7 @@
       "version": "3.14.7"
     },
     "Rust": {
-      "version": "1.97.1"
+      "version": "1.98.0"
     },
     "VapourSynth": {
       "version": "R79"
