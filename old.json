@@ -11,7 +11,7 @@
       "version": "7.7.1"
     },
     "ComfyUI": {
-      "version": "0.33.4"
+      "version": "0.34.0"
     },
     "Everything": {
       "version": "1.5.0.1422b"
@@ -23,7 +23,7 @@
       "version": "2.47.0"
     },
     "Iceweasel": {
-      "version": "154.0"
+      "version": "154.0.1"
     },
     "Mingw-w64": {
       "version": "20260820_16.2.1_x64-ucrt_c0ac056d538c704a0306be82230d787e3a0960c2"
