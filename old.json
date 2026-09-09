@@ -26,7 +26,7 @@
       "version": "155.0.1"
     },
     "Mingw-w64": {
-      "version": "20260820_16.2.1_x64-ucrt_c0ac056d538c704a0306be82230d787e3a0960c2"
+      "version": "20260908_16.2.1_x64-ucrt_f41b1c48384751294a38716b8d245d1cddafe294"
     },
     "NeeView": {
       "version": "46.3"
@@ -137,7 +137,7 @@
       "version": "6.4.0.0"
     },
     "xtls": {
-      "version": "26.7.28"
+      "version": "26.9.9"
     },
     "zlib-ng": {
       "version": "2.3.3"
