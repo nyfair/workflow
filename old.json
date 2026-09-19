@@ -82,6 +82,18 @@
     "libass": {
       "version": "0.17.5"
     },
+    "libbluray": {
+      "version": "1.5.0"
+    },
+    "libdvdcss": {
+      "version": "1.6.0"
+    },
+    "libdvdnav": {
+      "version": "7.0.0"
+    },
+    "libdvdread": {
+      "version": "7.1.1"
+    },
     "libjxl": {
       "version": "0.12.0"
     },
