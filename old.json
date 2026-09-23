@@ -11,7 +11,7 @@
       "version": "7.7.1"
     },
     "ComfyUI": {
-      "version": "0.37.0"
+      "version": "0.37.1"
     },
     "Everything": {
       "version": "1.5.0.1423b"
@@ -20,13 +20,13 @@
       "version": "16.2"
     },
     "Iceraven": {
-      "version": "2.48.0"
+      "version": "2.49.0"
     },
     "Iceweasel": {
-      "version": "156.0"
+      "version": "156.0.1"
     },
     "Mingw-w64": {
-      "version": "20260908_16.2.1_x64-ucrt_f41b1c48384751294a38716b8d245d1cddafe294"
+      "version": "20260922_16.2.1_x64-ucrt_b2a3bb22f94ae2f7eb4b0d7a11ed1b66d2a36802"
     },
     "NeeView": {
       "version": "46.3"
