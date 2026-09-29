@@ -101,7 +101,7 @@
       "version": "7.360.1"
     },
     "libpng": {
-      "version": "1.6.58"
+      "version": "1.6.59"
     },
     "libtiff": {
       "version": "4.7.2"
@@ -128,7 +128,7 @@
       "version": "2026.4"
     },
     "spirv-cross": {
-      "version": "1.4.357.0"
+      "version": "1.4.363.0"
     },
     "xplorer²": {
       "version": "6.4.0.0"
