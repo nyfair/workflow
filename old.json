@@ -11,7 +11,7 @@
       "version": "7.7.1"
     },
     "ComfyUI": {
-      "version": "0.38.0"
+      "version": "0.38.1"
     },
     "Everything": {
       "version": "1.5.0.1423b"
@@ -20,7 +20,7 @@
       "version": "16.2"
     },
     "Iceraven": {
-      "version": "2.49.0"
+      "version": "2.50.0"
     },
     "Iceweasel": {
       "version": "157.0"
@@ -32,7 +32,7 @@
       "version": "46.3"
     },
     "Python": {
-      "version": "3.14.7"
+      "version": "3.14.8"
     },
     "Rust": {
       "version": "1.98.1"
@@ -65,13 +65,10 @@
       "version": "1.0.17"
     },
     "harfbuzz": {
-      "version": "14.5.0"
+      "version": "14.5.1"
     },
     "highway": {
       "version": "1.4.0"
-    },
-    "lame": {
-      "version": "4.0"
     },
     "lcms2": {
       "version": "2.19.1"
@@ -134,7 +131,7 @@
       "version": "6.4.0.0"
     },
     "xtls": {
-      "version": "26.9.9"
+      "version": "26.9.30"
     },
     "zlib-ng": {
       "version": "2.3.3"
