@@ -11,7 +11,7 @@
       "version": "7.7.1"
     },
     "ComfyUI": {
-      "version": "0.38.1"
+      "version": "0.38.2"
     },
     "Everything": {
       "version": "1.5.0.1423b"
@@ -35,7 +35,7 @@
       "version": "3.14.8"
     },
     "Rust": {
-      "version": "1.98.1"
+      "version": "1.99.0"
     },
     "VapourSynth": {
       "version": "R80"
@@ -69,6 +69,9 @@
     },
     "highway": {
       "version": "1.4.0"
+    },
+    "lame": {
+      "version": "4.0"
     },
     "lcms2": {
       "version": "2.19.1"
