@@ -233,11 +233,6 @@ url = 'https://github.com/libjxl/libjxl/tags'
 regex = 'releases/tag/v([\d\.]+)"'
 
 # leech
-[aria2]
-source = 'regex'
-url = 'https://github.com/aria2/aria2/tags'
-regex = 'releases/tag/release-([\d\.]+)"'
-
 [AriaNg]
 source = 'regex'
 url = 'https://github.com/mayswind/AriaNg/tags'
