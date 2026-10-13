@@ -55,6 +55,9 @@
     "ffnvcodec": {
       "version": "13.1.15.0"
     },
+    "foobar2000": {
+      "version": "2.26.1"
+    },
     "freetype2": {
       "version": "2.15.0"
     },
