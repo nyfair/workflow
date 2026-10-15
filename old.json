@@ -14,7 +14,7 @@
       "version": "0.40.0"
     },
     "Everything": {
-      "version": "1.5.0.1423b"
+      "version": "1.5.0.1424b"
     },
     "GCC": {
       "version": "16.2"
@@ -26,7 +26,7 @@
       "version": "157.0.1"
     },
     "Mingw-w64": {
-      "version": "20260922_16.2.1_x64-ucrt_b2a3bb22f94ae2f7eb4b0d7a11ed1b66d2a36802"
+      "version": "20261008_16.2.1_x64-ucrt_243fa740d60e14b762f0c7ebd28149de5b024f0e"
     },
     "NeeView": {
       "version": "46.3"
@@ -119,7 +119,7 @@
       "version": "0.41.0"
     },
     "nginx": {
-      "version": "1.31.6"
+      "version": "1.31.7"
     },
     "opus": {
       "version": "1.6.1"
