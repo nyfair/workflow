@@ -11,7 +11,7 @@
       "version": "7.7.1"
     },
     "ComfyUI": {
-      "version": "0.41.2"
+      "version": "0.41.3"
     },
     "Everything": {
       "version": "1.5.0.1424b"
@@ -134,7 +134,7 @@
       "version": "6.4.0.0"
     },
     "xtls": {
-      "version": "26.10.10"
+      "version": "26.10.17"
     },
     "zlib-ng": {
       "version": "2.3.3"
