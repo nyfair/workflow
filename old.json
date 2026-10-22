@@ -2,7 +2,7 @@
   "version": 2,
   "data": {
     "7-zip": {
-      "version": "26.04"
+      "version": "26.05"
     },
     "AriaNg": {
       "version": "1.3.15"
@@ -11,7 +11,7 @@
       "version": "7.7.1"
     },
     "ComfyUI": {
-      "version": "0.42.3"
+      "version": "0.42.4"
     },
     "Everything": {
       "version": "1.5.0.1424b"
@@ -26,13 +26,13 @@
       "version": "158.0.1"
     },
     "Mingw-w64": {
-      "version": "20261008_16.2.1_x64-ucrt_243fa740d60e14b762f0c7ebd28149de5b024f0e"
+      "version": "20261021_16.2.1_x64-ucrt_9d305bff446047a1b1a7bab2924afee83233e77f"
     },
     "NeeView": {
       "version": "46.3"
     },
     "Python": {
-      "version": "3.14.8"
+      "version": "3.14.9"
     },
     "Rust": {
       "version": "1.99.1"
@@ -47,7 +47,7 @@
       "version": "0.20.0"
     },
     "brotli": {
-      "version": "1.2.0"
+      "version": "1.2.1"
     },
     "ffmpeg": {
       "version": "9.0.2"
@@ -119,7 +119,7 @@
       "version": "0.41.0"
     },
     "nginx": {
-      "version": "1.31.7"
+      "version": "1.31.8"
     },
     "opus": {
       "version": "1.6.1"
@@ -134,7 +134,7 @@
       "version": "6.4.0.0"
     },
     "xtls": {
-      "version": "26.10.17"
+      "version": "26.10.21"
     },
     "zlib-ng": {
       "version": "2.3.3"
