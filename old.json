@@ -11,7 +11,7 @@
       "version": "7.7.1"
     },
     "ComfyUI": {
-      "version": "0.42.5"
+      "version": "0.43.0"
     },
     "Everything": {
       "version": "1.5.0.1424b"
@@ -20,10 +20,10 @@
       "version": "16.2"
     },
     "Iceraven": {
-      "version": "2.51.0"
+      "version": "2.51.1"
     },
     "Iceweasel": {
-      "version": "158.0.1"
+      "version": "159.0"
     },
     "Mingw-w64": {
       "version": "20261021_16.2.1_x64-ucrt_9d305bff446047a1b1a7bab2924afee83233e77f"
@@ -32,7 +32,7 @@
       "version": "46.3"
     },
     "Python": {
-      "version": "3.14.9"
+      "version": "3.14.10"
     },
     "Rust": {
       "version": "1.99.1"
