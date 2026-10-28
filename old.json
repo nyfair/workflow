@@ -11,7 +11,7 @@
       "version": "7.7.1"
     },
     "ComfyUI": {
-      "version": "0.43.0"
+      "version": "0.43.1"
     },
     "Everything": {
       "version": "1.5.0.1424b"
@@ -41,7 +41,7 @@
       "version": "R81"
     },
     "WinRAR": {
-      "version": "7.30 beta 1"
+      "version": "7.30 beta 2"
     },
     "bevy": {
       "version": "0.20.0"
