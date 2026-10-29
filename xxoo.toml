@@ -89,16 +89,10 @@ source = 'regex'
 url = 'https://github.com/bevyengine/bevy/tags'
 regex = 'releases/tag/v([\d\.]+)"'
 
-# nginx
 [nginx]
 source = 'regex'
 url = 'https://nginx.org/en/download.html'
 regex = 'nginx-([\d\.]+)'
-
-[zlib-ng]
-source = 'regex'
-url = 'https://github.com/zlib-ng/zlib-ng/tags'
-regex = 'releases/tag/([\d\.]+)"'
 
 # mpv
 [ffmpeg]
@@ -206,15 +200,9 @@ source = 'regex'
 url = 'https://github.com/google/brotli/tags'
 regex = 'releases/tag/v([\d\.]+)"'
 
-# image
-[libpng]
+[libjxl]
 source = 'regex'
-url = 'https://github.com/pnggroup/libpng/tags'
-regex = 'releases/tag/v([\d\.]+)"'
-
-[libtiff]
-source = 'regex'
-url = 'https://github.com/libsdl-org/libtiff/tags'
+url = 'https://github.com/libjxl/libjxl/tags'
 regex = 'releases/tag/v([\d\.]+)"'
 
 [libwebp]
@@ -222,15 +210,10 @@ source = 'regex'
 url = 'https://github.com/webmproject/libwebp/tags'
 regex = 'releases/tag/v([\d\.]+)"'
 
-[mozjpeg]
+[yt-dlp]
 source = 'regex'
-url = 'https://github.com/mozilla/mozjpeg/tags'
-regex = 'releases/tag/v([\d\.]+)"'
-
-[libjxl]
-source = 'regex'
-url = 'https://github.com/libjxl/libjxl/tags'
-regex = 'releases/tag/v([\d\.]+)"'
+url = 'https://github.com/yt-dlp/yt-dlp/tags'
+regex = 'releases/tag/([\d\.]+)"'
 
 # leech
 [AriaNg]
