@@ -49,6 +49,9 @@
     "brotli": {
       "version": "1.2.1"
     },
+    "ffmpeg": {
+      "version": "9.0.2"
+    },
     "ffnvcodec": {
       "version": "13.1.15.0"
     },
