@@ -210,6 +210,16 @@ source = 'regex'
 url = 'https://github.com/webmproject/libwebp/tags'
 regex = 'releases/tag/v([\d\.]+)"'
 
+[libjpeg-turbo]
+source = 'regex'
+url = 'https://github.com/libjpeg-turbo/libjpeg-turbo/tags'
+regex = 'releases/tag/([\d\.]+)"'
+
+[zlib-ng]
+source = 'regex'
+url = 'https://github.com/zlib-ng/zlib-ng/tags'
+regex = 'releases/tag/([\d\.]+)"'
+
 [yt-dlp]
 source = 'regex'
 url = 'https://github.com/yt-dlp/yt-dlp/tags'
