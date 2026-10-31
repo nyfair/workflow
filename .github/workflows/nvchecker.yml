@@ -28,11 +28,6 @@ jobs:
           git config --global user.email 'nyfair2012@gmail.com'
           mv new.json old.json
           git add old.json
-          if grep -q nginx cmp
-          then
-            python update_nginx.py
-            git add nginx/PKGBUILD
-          fi
           git commit -m "Automate"
           git push
         fi

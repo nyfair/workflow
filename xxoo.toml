@@ -89,11 +89,6 @@ source = 'regex'
 url = 'https://github.com/bevyengine/bevy/tags'
 regex = 'releases/tag/v([\d\.]+)"'
 
-[nginx]
-source = 'regex'
-url = 'https://nginx.org/en/download.html'
-regex = 'nginx-([\d\.]+)'
-
 # mpv
 [ffmpeg]
 source = 'regex'

@@ -112,9 +112,6 @@
     "mpv": {
       "version": "0.41.0"
     },
-    "nginx": {
-      "version": "1.31.8"
-    },
     "opus": {
       "version": "1.6.1"
     },
