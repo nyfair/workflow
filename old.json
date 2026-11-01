@@ -74,7 +74,7 @@
       "version": "4.0"
     },
     "lcms2": {
-      "version": "2.19.1"
+      "version": "2.20"
     },
     "libass": {
       "version": "0.17.5"
@@ -125,7 +125,7 @@
       "version": "6.4.0.0"
     },
     "xtls": {
-      "version": "26.10.29"
+      "version": "26.10.31"
     },
     "yt-dlp": {
       "version": "2026.10.26"
