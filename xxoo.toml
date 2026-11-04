@@ -89,6 +89,21 @@ source = 'regex'
 url = 'https://github.com/bevyengine/bevy/tags'
 regex = 'releases/tag/v([\d\.]+)"'
 
+[AriaNg]
+source = 'regex'
+url = 'https://github.com/mayswind/AriaNg/tags'
+regex = 'releases/tag/([\d\.]+)"'
+
+[MNN]
+source = 'regex'
+url = 'https://github.com/alibaba/MNN/tags'
+regex = 'releases/tag/([\d\.]+)"'
+
+[PaddleOCR]
+source = 'regex'
+url = 'https://github.com/PaddlePaddle/PaddleOCR/tags'
+regex = 'releases/tag/v([\d\.]+)"'
+
 # mpv
 [ffmpeg]
 source = 'regex'
@@ -218,10 +233,4 @@ regex = 'releases/tag/([\d\.]+)"'
 [yt-dlp]
 source = 'regex'
 url = 'https://github.com/yt-dlp/yt-dlp/tags'
-regex = 'releases/tag/([\d\.]+)"'
-
-# leech
-[AriaNg]
-source = 'regex'
-url = 'https://github.com/mayswind/AriaNg/tags'
 regex = 'releases/tag/([\d\.]+)"'
