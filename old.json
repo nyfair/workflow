@@ -71,7 +71,7 @@
       "version": "1.0.18"
     },
     "harfbuzz": {
-      "version": "15.0.0"
+      "version": "15.1.0"
     },
     "highway": {
       "version": "1.4.0"
@@ -116,7 +116,7 @@
       "version": "1.6.0"
     },
     "mpv": {
-      "version": "0.41.0"
+      "version": "0.42.0"
     },
     "opus": {
       "version": "1.6.1"
