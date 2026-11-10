@@ -23,13 +23,13 @@
       "version": "2.52.0"
     },
     "Iceweasel": {
-      "version": "159.0.1"
+      "version": "160.0"
     },
     "MNN": {
       "version": "3.6.2"
     },
     "Mingw-w64": {
-      "version": "20261021_16.2.1_x64-ucrt_9d305bff446047a1b1a7bab2924afee83233e77f"
+      "version": "20261109_16.2.1_x64-ucrt_3d66d1aa09e7a00e4b45b40863808377c2cacadc"
     },
     "NeeView": {
       "version": "46.3"
@@ -54,9 +54,6 @@
     },
     "brotli": {
       "version": "1.2.1"
-    },
-    "ffmpeg": {
-      "version": "9.0.2"
     },
     "ffnvcodec": {
       "version": "13.1.15.0"
@@ -131,7 +128,7 @@
       "version": "6.4.0.0"
     },
     "xtls": {
-      "version": "26.10.31"
+      "version": "26.11.9"
     },
     "yt-dlp": {
       "version": "2026.10.26"
