@@ -11,7 +11,7 @@
       "version": "7.7.1"
     },
     "ComfyUI": {
-      "version": "0.44.2"
+      "version": "0.45.2"
     },
     "Everything": {
       "version": "1.5.0.1424b"
@@ -54,6 +54,9 @@
     },
     "brotli": {
       "version": "1.2.1"
+    },
+    "ffmpeg": {
+      "version": "9.0.2"
     },
     "ffnvcodec": {
       "version": "13.1.15.0"
