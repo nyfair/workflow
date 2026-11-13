@@ -11,7 +11,7 @@
       "version": "7.7.1"
     },
     "ComfyUI": {
-      "version": "0.45.2"
+      "version": "0.45.3"
     },
     "Everything": {
       "version": "1.5.0.1424b"
@@ -41,7 +41,7 @@
       "version": "3.14.10"
     },
     "Rust": {
-      "version": "1.99.1"
+      "version": "1.100.0"
     },
     "VapourSynth": {
       "version": "R82"
