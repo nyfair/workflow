@@ -11,7 +11,7 @@
       "version": "7.7.1"
     },
     "ComfyUI": {
-      "version": "0.46.0"
+      "version": "0.46.1"
     },
     "Everything": {
       "version": "1.5.0.1424b"
@@ -56,7 +56,7 @@
       "version": "1.2.1"
     },
     "ffmpeg": {
-      "version": "9.0.2"
+      "version": "9.1"
     },
     "ffnvcodec": {
       "version": "13.1.15.0"
@@ -71,7 +71,7 @@
       "version": "1.0.18"
     },
     "harfbuzz": {
-      "version": "15.1.0"
+      "version": "15.2.0"
     },
     "highway": {
       "version": "1.4.0"
