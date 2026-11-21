@@ -11,7 +11,7 @@
       "version": "7.7.1"
     },
     "ComfyUI": {
-      "version": "0.46.1"
+      "version": "0.46.2"
     },
     "Everything": {
       "version": "1.5.0.1424b"
@@ -29,7 +29,7 @@
       "version": "3.6.2"
     },
     "Mingw-w64": {
-      "version": "20261109_16.2.1_x64-ucrt_3d66d1aa09e7a00e4b45b40863808377c2cacadc"
+      "version": "20261120_17.0.0_x64-ucrt_785e1c5ed8eaa120bf5a7423e0a3ff6bfccb454c"
     },
     "NeeView": {
       "version": "46.3"
