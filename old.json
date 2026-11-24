@@ -11,7 +11,7 @@
       "version": "7.7.1"
     },
     "ComfyUI": {
-      "version": "0.46.2"
+      "version": "0.46.3"
     },
     "Everything": {
       "version": "1.5.0.1424b"
@@ -134,7 +134,7 @@
       "version": "26.11.9"
     },
     "yt-dlp": {
-      "version": "2026.10.26"
+      "version": "2026.11.23"
     },
     "zlib-ng": {
       "version": "2.3.3"
